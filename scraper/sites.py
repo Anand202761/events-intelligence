@@ -4,7 +4,6 @@
 #  "name" is displayed in the UI as the institute tag.
 # ──────────────────────────────────────────────────────────
 SITES = [
-SITES = [
     # IISc
     {"name": "IISc", "url": "https://iisc.ac.in"},
     {"name": "IISc Events", "url": "https://iisc.ac.in/events/"},
