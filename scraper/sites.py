@@ -53,4 +53,12 @@ KEYWORDS = [
     "proteomics",
     "CRISPR",
     "bioinformatics",
+    "internship",
+    "conference",
+    "webinar",
+    "seminar",
+    "paper presentation",
+    "workshop",
+    "hackathon",
+    "research exposure",
 ]
