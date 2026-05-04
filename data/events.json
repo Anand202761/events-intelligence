@@ -6,7 +6,7 @@
     "category": "seminar",
     "type": "SEMINAR",
     "source": "https://iisc.ac.in",
-    "scanned_at": "2026-05-03T08:25:29.506622Z"
+    "scanned_at": "2026-05-04T10:24:21.911765Z"
   },
   {
     "title": "Student Corner General Information Medium of instruction in IISc Status of IISc CGPA to Percentage Conversion Migration Certificate / TC R​elabelling",
@@ -15,7 +15,7 @@
     "category": "seminar",
     "type": "SEMINAR",
     "source": "https://iisc.ac.in",
-    "scanned_at": "2026-05-03T08:25:29.507176Z"
+    "scanned_at": "2026-05-04T10:24:21.912309Z"
   },
   {
     "title": "General Information Medium of instruction in IISc Status of IISc CGPA to Percentage Conversion Migration Certificate / TC R​elabelling of MSc(Engg) Ca",
@@ -24,7 +24,7 @@
     "category": "seminar",
     "type": "SEMINAR",
     "source": "https://iisc.ac.in",
-    "scanned_at": "2026-05-03T08:25:29.507229Z"
+    "scanned_at": "2026-05-04T10:24:21.912346Z"
   },
   {
     "title": "Auditoria and Seminar Halls",
@@ -33,7 +33,7 @@
     "category": "seminar",
     "type": "SEMINAR",
     "source": "https://iisc.ac.in",
-    "scanned_at": "2026-05-03T08:25:29.507325Z"
+    "scanned_at": "2026-05-04T10:24:21.912439Z"
   },
   {
     "title": "Faculty Corner General Information Campus Life Housing Campus Facilities Health Centre Auditoria and Seminar Halls Internal Committee Against Sexual H",
@@ -42,7 +42,7 @@
     "category": "seminar",
     "type": "SEMINAR",
     "source": "https://iisc.ac.in",
-    "scanned_at": "2026-05-03T08:25:29.507619Z"
+    "scanned_at": "2026-05-04T10:24:21.912749Z"
   },
   {
     "title": "General Information Campus Life Housing Campus Facilities Health Centre Auditoria and Seminar Halls Internal Committee Against Sexual Harassment (ICAS",
@@ -51,7 +51,7 @@
     "category": "seminar",
     "type": "SEMINAR",
     "source": "https://iisc.ac.in",
-    "scanned_at": "2026-05-03T08:25:29.507640Z"
+    "scanned_at": "2026-05-04T10:24:21.912770Z"
   },
   {
     "title": "Research Scientists Corner General Information Campus Life Campus Facilities Auditoria and Seminar Halls Complaints related to caste-based  discrimina",
@@ -60,7 +60,7 @@
     "category": "seminar",
     "type": "SEMINAR",
     "source": "https://iisc.ac.in",
-    "scanned_at": "2026-05-03T08:25:29.507859Z"
+    "scanned_at": "2026-05-04T10:24:21.912988Z"
   },
   {
     "title": "General Information Campus Life Campus Facilities Auditoria and Seminar Halls Complaints related to caste-based  discrimination",
@@ -69,7 +69,7 @@
     "category": "seminar",
     "type": "SEMINAR",
     "source": "https://iisc.ac.in",
-    "scanned_at": "2026-05-03T08:25:29.507876Z"
+    "scanned_at": "2026-05-04T10:24:21.913004Z"
   },
   {
     "title": "Admin Staff Corner General Information Campus Life Housing campus facilities Health Centre Auditoria and Seminar Halls Internal Committee Against Sexu",
@@ -78,7 +78,7 @@
     "category": "seminar",
     "type": "SEMINAR",
     "source": "https://iisc.ac.in",
-    "scanned_at": "2026-05-03T08:25:29.507950Z"
+    "scanned_at": "2026-05-04T10:24:21.913078Z"
   },
   {
     "title": "Guests Corner General Information Campus Facilities Health Centre Auditoria and Seminar Halls Internal Committee Against Sexual Harassment (ICASH) Com",
@@ -87,7 +87,7 @@
     "category": "seminar",
     "type": "SEMINAR",
     "source": "https://iisc.ac.in",
-    "scanned_at": "2026-05-03T08:25:29.508060Z"
+    "scanned_at": "2026-05-04T10:24:21.913185Z"
   },
   {
     "title": "General Information Campus Facilities Health Centre Auditoria and Seminar Halls Internal Committee Against Sexual Harassment (ICASH) Complaints relate",
@@ -96,7 +96,7 @@
     "category": "seminar",
     "type": "SEMINAR",
     "source": "https://iisc.ac.in",
-    "scanned_at": "2026-05-03T08:25:29.508077Z"
+    "scanned_at": "2026-05-04T10:24:21.913202Z"
   },
   {
     "title": "IISc faculty member appointed Chair in the international American Society for Microbiology",
@@ -105,7 +105,7 @@
     "category": "microbiology",
     "type": "MICROB",
     "source": "https://iisc.ac.in",
-    "scanned_at": "2026-05-03T08:25:29.508901Z"
+    "scanned_at": "2026-05-04T10:24:21.914011Z"
   },
   {
     "title": "International Conference at J N Tata Auditorium",
@@ -114,7 +114,16 @@
     "category": "conference",
     "type": "CONF",
     "source": "https://iisc.ac.in",
-    "scanned_at": "2026-05-03T08:25:29.508985Z"
+    "scanned_at": "2026-05-04T10:24:21.914088Z"
+  },
+  {
+    "title": "NHA Hackathon",
+    "url": "https://iisc.ac.in/events/nha-hackathon/",
+    "institute": "IISc",
+    "category": "hackathon",
+    "type": "HACK",
+    "source": "https://iisc.ac.in",
+    "scanned_at": "2026-05-04T10:24:21.914097Z"
   },
   {
     "title": "AI for Engineering-Workshop at AR Auditorium, Department of Mechanical Engineering",
@@ -123,7 +132,7 @@
     "category": "workshop",
     "type": "WORKSHOP",
     "source": "https://iisc.ac.in",
-    "scanned_at": "2026-05-03T08:25:29.508997Z"
+    "scanned_at": "2026-05-04T10:24:21.914107Z"
   },
   {
     "title": "Training program and Workshop Announcement",
@@ -132,7 +141,7 @@
     "category": "workshop",
     "type": "WORKSHOP",
     "source": "https://iisc.ac.in",
-    "scanned_at": "2026-05-03T08:25:29.509039Z"
+    "scanned_at": "2026-05-04T10:24:21.914148Z"
   },
   {
     "title": "2016 IEEE ANTS Conference",
@@ -141,7 +150,7 @@
     "category": "conference",
     "type": "CONF",
     "source": "https://iisc.ac.in/events/",
-    "scanned_at": "2026-05-03T08:25:32.109412Z"
+    "scanned_at": "2026-05-04T10:24:24.370421Z"
   },
   {
     "title": "Workshop on Brain, Computation, and Learning",
@@ -150,7 +159,7 @@
     "category": "workshop",
     "type": "WORKSHOP",
     "source": "https://iisc.ac.in/events/",
-    "scanned_at": "2026-05-03T08:25:32.109432Z"
+    "scanned_at": "2026-05-04T10:24:24.370441Z"
   },
   {
     "title": "Medical Devices Hackathon",
@@ -159,7 +168,7 @@
     "category": "hackathon",
     "type": "HACK",
     "source": "https://iisc.ac.in/events/",
-    "scanned_at": "2026-05-03T08:25:32.109443Z"
+    "scanned_at": "2026-05-04T10:24:24.370450Z"
   },
   {
     "title": "Address by the President of India to Institutes of Higher Learning through Video Conference using NKN",
@@ -168,7 +177,7 @@
     "category": "conference",
     "type": "CONF",
     "source": "https://iisc.ac.in/events/",
-    "scanned_at": "2026-05-03T08:25:32.109496Z"
+    "scanned_at": "2026-05-04T10:24:24.370501Z"
   },
   {
     "title": "The Tenth Bieennial Lake Conference - Lake 2016",
@@ -177,7 +186,7 @@
     "category": "conference",
     "type": "CONF",
     "source": "https://iisc.ac.in/events/",
-    "scanned_at": "2026-05-03T08:25:32.109502Z"
+    "scanned_at": "2026-05-04T10:24:24.370507Z"
   },
   {
     "title": "International Conference on Metals and Materials Research (ICMR 2016)",
@@ -186,7 +195,7 @@
     "category": "conference",
     "type": "CONF",
     "source": "https://iisc.ac.in/events/",
-    "scanned_at": "2026-05-03T08:25:32.109520Z"
+    "scanned_at": "2026-05-04T10:24:24.370524Z"
   },
   {
     "title": "Workshop on Biosafety in Labs",
@@ -195,7 +204,7 @@
     "category": "workshop",
     "type": "WORKSHOP",
     "source": "https://iisc.ac.in/events/",
-    "scanned_at": "2026-05-03T08:25:32.109537Z"
+    "scanned_at": "2026-05-04T10:24:24.370541Z"
   },
   {
     "title": "SIAM-CPDM Design Workshop on Two-Wheeler Mobility Solution",
@@ -204,7 +213,7 @@
     "category": "workshop",
     "type": "WORKSHOP",
     "source": "https://iisc.ac.in/events/",
-    "scanned_at": "2026-05-03T08:25:32.109562Z"
+    "scanned_at": "2026-05-04T10:24:24.370577Z"
   },
   {
     "title": "Workshop on Indo–French Collaboration in Marine Biology and Biotechnology",
@@ -213,7 +222,7 @@
     "category": "workshop",
     "type": "WORKSHOP",
     "source": "https://iisc.ac.in/events/",
-    "scanned_at": "2026-05-03T08:25:32.109586Z"
+    "scanned_at": "2026-05-04T10:24:24.370601Z"
   },
   {
     "title": "Conference on Municipal Solid Waste Management",
@@ -222,7 +231,7 @@
     "category": "conference",
     "type": "CONF",
     "source": "https://iisc.ac.in/events/",
-    "scanned_at": "2026-05-03T08:25:32.109604Z"
+    "scanned_at": "2026-05-04T10:24:24.370619Z"
   },
   {
     "title": "Conference On Neurodegenerative Diseases",
@@ -231,7 +240,7 @@
     "category": "conference",
     "type": "CONF",
     "source": "https://iisc.ac.in/events/",
-    "scanned_at": "2026-05-03T08:25:32.109636Z"
+    "scanned_at": "2026-05-04T10:24:24.370650Z"
   },
   {
     "title": "6th Edition Of The Students’ Conference On Conservation Science (SCCS)",
@@ -240,7 +249,7 @@
     "category": "conference",
     "type": "CONF",
     "source": "https://iisc.ac.in/events/",
-    "scanned_at": "2026-05-03T08:25:32.109658Z"
+    "scanned_at": "2026-05-04T10:24:24.370671Z"
   },
   {
     "title": "2016 IEEE ANTS Conference will be held in IISc, 6-9 Nov 2016 at NSSComplex, IISc.  The details of the programme are at http://ants2016.ieee-comsoc-ant",
@@ -249,7 +258,7 @@
     "category": "conference",
     "type": "CONF",
     "source": "https://iisc.ac.in/events/",
-    "scanned_at": "2026-05-03T08:25:32.109779Z"
+    "scanned_at": "2026-05-04T10:24:24.370783Z"
   },
   {
     "title": "The seminar is aimed at giving a simplified introduction for students interested in undertaking projects in this area.",
@@ -258,7 +267,7 @@
     "category": "seminar",
     "type": "SEMINAR",
     "source": "https://iisc.ac.in/events/",
-    "scanned_at": "2026-05-03T08:25:32.109886Z"
+    "scanned_at": "2026-05-04T10:24:24.370884Z"
   },
   {
     "title": "Long before the present-day fascination with pharmaceutically valuable ‘secondary metabolites’ from plants and ‘endophytic fungi’ – a class of fungi i",
@@ -267,7 +276,7 @@
     "category": "genomics",
     "type": "GENOMI",
     "source": "https://iisc.ac.in/events/",
-    "scanned_at": "2026-05-03T08:25:32.110144Z"
+    "scanned_at": "2026-05-04T10:24:24.371124Z"
   },
   {
     "title": "A five day workshop on Brain, Computation, and Learning will be held during January 9-13, 2017 in the Faculty Hall, IISc. Details will be available so",
@@ -276,7 +285,7 @@
     "category": "workshop",
     "type": "WORKSHOP",
     "source": "https://iisc.ac.in/events/",
-    "scanned_at": "2026-05-03T08:25:32.110156Z"
+    "scanned_at": "2026-05-04T10:24:24.371135Z"
   },
   {
     "title": "The brainstorming session during the meeting saw discussions on some tentative selected topics which are relevant to the South Asian region, such as t",
@@ -285,7 +294,7 @@
     "category": "workshop",
     "type": "WORKSHOP",
     "source": "https://iisc.ac.in/events/",
-    "scanned_at": "2026-05-03T08:25:32.110609Z"
+    "scanned_at": "2026-05-04T10:24:24.371545Z"
   },
   {
     "title": "The last day of the summer school saw a “hackathon”, in which the students, divided into teams, had to come up with solutions to technological problem",
@@ -294,7 +303,7 @@
     "category": "hackathon",
     "type": "HACK",
     "source": "https://iisc.ac.in/events/",
-    "scanned_at": "2026-05-03T08:25:32.110754Z"
+    "scanned_at": "2026-05-04T10:24:24.371694Z"
   },
   {
     "title": "An International Conference on Metals and Materials Research (ICMR) was organized in honour of S Ranganathan, an emeritus professor in the Department",
@@ -303,7 +312,7 @@
     "category": "conference",
     "type": "CONF",
     "source": "https://iisc.ac.in/events/",
-    "scanned_at": "2026-05-03T08:25:32.110819Z"
+    "scanned_at": "2026-05-04T10:24:24.371754Z"
   },
   {
     "title": "The conference saw many luminaries from the field discuss the latest innovations in materials technology. The ball was set rolling by one of India’s m",
@@ -312,7 +321,7 @@
     "category": "conference",
     "type": "CONF",
     "source": "https://iisc.ac.in/events/",
-    "scanned_at": "2026-05-03T08:25:32.110841Z"
+    "scanned_at": "2026-05-04T10:24:24.371774Z"
   },
   {
     "title": "Two of Ranganathan’s former students, BS Murty (IIT Madras) and VS Raja (IIT Bombay), along with Satyam Suwas (Materials Engineering, IISc), co-chaire",
@@ -321,7 +330,7 @@
     "category": "conference",
     "type": "CONF",
     "source": "https://iisc.ac.in/events/",
-    "scanned_at": "2026-05-03T08:25:32.110875Z"
+    "scanned_at": "2026-05-04T10:24:24.371803Z"
   },
   {
     "title": "In parallel technical sessions, U Kamachi Mudali (IGCAR, Kalpakkam) shed light about the indigenously developed high-nitrogen stainless steel for use",
@@ -330,7 +339,7 @@
     "category": "conference",
     "type": "CONF",
     "source": "https://iisc.ac.in/events/",
-    "scanned_at": "2026-05-03T08:25:32.110893Z"
+    "scanned_at": "2026-05-04T10:24:24.371819Z"
   },
   {
     "title": "In the second plenary session of the conference, A Inoue (Tohoku University, Japan) showed how a small geared motor, with a diameter of 1.5 mm, was fa",
@@ -339,7 +348,7 @@
     "category": "conference",
     "type": "CONF",
     "source": "https://iisc.ac.in/events/",
-    "scanned_at": "2026-05-03T08:25:32.110926Z"
+    "scanned_at": "2026-05-04T10:24:24.371847Z"
   },
   {
     "title": "The President of India will be addressing the students and faculty members of the higher learning institutions & probationary officers in civil servic",
@@ -348,7 +357,7 @@
     "category": "conference",
     "type": "CONF",
     "source": "https://iisc.ac.in/events/",
-    "scanned_at": "2026-05-03T08:25:32.110950Z"
+    "scanned_at": "2026-05-04T10:24:24.371868Z"
   },
   {
     "title": "THE TENTH BIENNIAL LAKE CONFERENCE-LAKE 2016 : Conference on Conservation and Sustainable Management of Ecologically Sensitive Regions in Western Ghat",
@@ -357,7 +366,7 @@
     "category": "conference",
     "type": "CONF",
     "source": "https://iisc.ac.in/events/",
-    "scanned_at": "2026-05-03T08:25:32.110967Z"
+    "scanned_at": "2026-05-04T10:24:24.371885Z"
   },
   {
     "title": "IISc already has strong linkages with industry―SID (Society for Innovation and Design) has played a very important role in strengthening the Institute",
@@ -366,7 +375,7 @@
     "category": "workshop",
     "type": "WORKSHOP",
     "source": "https://iisc.ac.in/events/",
-    "scanned_at": "2026-05-03T08:25:32.111340Z"
+    "scanned_at": "2026-05-04T10:24:24.372215Z"
   },
   {
     "title": "International Conference on Metals and Materials Research (ICMR 2016) : The conference ICMR 2016 is organised from June 20 to 23 by Department of Mate",
@@ -375,7 +384,7 @@
     "category": "conference",
     "type": "CONF",
     "source": "https://iisc.ac.in/events/",
-    "scanned_at": "2026-05-03T08:25:32.111526Z"
+    "scanned_at": "2026-05-04T10:24:24.372382Z"
   },
   {
     "title": "Pragya Yadav, Scientist, National Institute of Virology, demonstrating the biosafety training protocols at the workshop (Prashant Shukla)",
@@ -384,7 +393,7 @@
     "category": "workshop",
     "type": "WORKSHOP",
     "source": "https://iisc.ac.in/events/",
-    "scanned_at": "2026-05-03T08:25:32.111956Z"
+    "scanned_at": "2026-05-04T10:24:24.372792Z"
   },
   {
     "title": "A workshop on Biorisk Preparedness in Laboratory Setting , organized by the National Institute of Virology (NIV), Pune, was held at IISc on 11 April 2",
@@ -393,7 +402,7 @@
     "category": "workshop",
     "type": "WORKSHOP",
     "source": "https://iisc.ac.in/events/",
-    "scanned_at": "2026-05-03T08:25:32.111979Z"
+    "scanned_at": "2026-05-04T10:24:24.372814Z"
   },
   {
     "title": "Dipankar Nandi, Department of Biochemistry, IISc, introduced the workshop to the participants. Lt. Gen. Dr. D Raghunath, who has served on the advisor",
@@ -402,7 +411,7 @@
     "category": "workshop",
     "type": "WORKSHOP",
     "source": "https://iisc.ac.in/events/",
-    "scanned_at": "2026-05-03T08:25:32.111992Z"
+    "scanned_at": "2026-05-04T10:24:24.372826Z"
   },
   {
     "title": "Many of the emerging and re-emerging pathogens, such as those that cause SARS, H5N1 influenza and Nipah, are viruses. The diseases caused by these pat",
@@ -411,7 +420,7 @@
     "category": "workshop",
     "type": "WORKSHOP",
     "source": "https://iisc.ac.in/events/",
-    "scanned_at": "2026-05-03T08:25:32.112012Z"
+    "scanned_at": "2026-05-04T10:24:24.372844Z"
   },
   {
     "title": "To highlight the importance of the mandatory training received by all laboratory personnel handling infectious agents in BSL-3 and BSL-4 facilities, P",
@@ -420,7 +429,7 @@
     "category": "workshop",
     "type": "WORKSHOP",
     "source": "https://iisc.ac.in/events/",
-    "scanned_at": "2026-05-03T08:25:32.112049Z"
+    "scanned_at": "2026-05-04T10:24:24.372877Z"
   },
   {
     "title": "“If I can get institutes to realise that something special needs to be done to encourage both young women students and faculty to prosper, then I woul",
@@ -429,7 +438,7 @@
     "category": "conference",
     "type": "CONF",
     "source": "https://iisc.ac.in/events/",
-    "scanned_at": "2026-05-03T08:25:32.112238Z"
+    "scanned_at": "2026-05-04T10:24:24.373039Z"
   },
   {
     "title": "A second panel discussion addressed, among other things, the dilemma that women often face in trying to balance family life and work. One of the panel",
@@ -438,7 +447,7 @@
     "category": "microbiology",
     "type": "MICROB",
     "source": "https://iisc.ac.in/events/",
-    "scanned_at": "2026-05-03T08:25:32.112294Z"
+    "scanned_at": "2026-05-04T10:24:24.373089Z"
   },
   {
     "title": "This conference was intended to be a first step in the long road to creating an environment where gender sensitivity and justice are more than just bu",
@@ -447,7 +456,7 @@
     "category": "conference",
     "type": "CONF",
     "source": "https://iisc.ac.in/events/",
-    "scanned_at": "2026-05-03T08:25:32.112327Z"
+    "scanned_at": "2026-05-04T10:24:24.373119Z"
   },
   {
     "title": "Participants during the Reimagine Waste Hackathon (Courtesy: Organizing Team, Reimagine Waste)",
@@ -456,7 +465,7 @@
     "category": "hackathon",
     "type": "HACK",
     "source": "https://iisc.ac.in/events/",
-    "scanned_at": "2026-05-03T08:25:32.112358Z"
+    "scanned_at": "2026-05-04T10:24:24.373149Z"
   },
   {
     "title": "Reimagine Waste, a “design hackathon”, was organised at IISc by the Centre for Product Design and Manufacturing (CPDM) in association with the Centre",
@@ -465,7 +474,7 @@
     "category": "hackathon",
     "type": "HACK",
     "source": "https://iisc.ac.in/events/",
-    "scanned_at": "2026-05-03T08:25:32.112388Z"
+    "scanned_at": "2026-05-04T10:24:24.373180Z"
   },
   {
     "title": "A hackathon is an event where participants are challenged to create readily implementable solutions. To this end, in the “Immersion” session on day on",
@@ -474,7 +483,7 @@
     "category": "workshop",
     "type": "WORKSHOP",
     "source": "https://iisc.ac.in/events/",
-    "scanned_at": "2026-05-03T08:25:32.112431Z"
+    "scanned_at": "2026-05-04T10:24:24.373218Z"
   },
   {
     "title": "The finalists have also been given an opportunity to refine their ideas and come up with marketable ventures within 45 days. “We would be happy even i",
@@ -483,7 +492,7 @@
     "category": "hackathon",
     "type": "HACK",
     "source": "https://iisc.ac.in/events/",
-    "scanned_at": "2026-05-03T08:25:32.112489Z"
+    "scanned_at": "2026-05-04T10:24:24.373269Z"
   },
   {
     "title": "EntorQ 210, an award-winning concept scooter from TVS Motors, on display during the workshop (Courtesy: Vivek)",
@@ -492,7 +501,7 @@
     "category": "workshop",
     "type": "WORKSHOP",
     "source": "https://iisc.ac.in/events/",
-    "scanned_at": "2026-05-03T08:25:32.112820Z"
+    "scanned_at": "2026-05-04T10:24:24.373579Z"
   },
   {
     "title": "The Society of Indian Automobile Manufacturers (SIAM) organized their South Zone Design Workshop on Two-Wheeler Mobility at the Centre for Product Des",
@@ -501,7 +510,7 @@
     "category": "workshop",
     "type": "WORKSHOP",
     "source": "https://iisc.ac.in/events/",
-    "scanned_at": "2026-05-03T08:25:32.112849Z"
+    "scanned_at": "2026-05-04T10:24:24.373608Z"
   },
   {
     "title": "B Gurumoorthy, Chairperson, CPDM, welcomed the gathering and spoke about CPDM’s role in design education and research. Anil Saini, Chairman of Styling",
@@ -510,7 +519,7 @@
     "category": "workshop",
     "type": "WORKSHOP",
     "source": "https://iisc.ac.in/events/",
-    "scanned_at": "2026-05-03T08:25:32.112869Z"
+    "scanned_at": "2026-05-04T10:24:24.373625Z"
   },
   {
     "title": "To this end, the first part of the workshop featured keynote speakers who spoke about the role of designers in creating future mobility solutions. Thi",
@@ -519,7 +528,7 @@
     "category": "workshop",
     "type": "WORKSHOP",
     "source": "https://iisc.ac.in/events/",
-    "scanned_at": "2026-05-03T08:25:32.112894Z"
+    "scanned_at": "2026-05-04T10:24:24.373644Z"
   },
   {
     "title": "The workshop thus served to foster collaboration between industry and academia. Interactive sessions with the experts helped students understand caree",
@@ -528,7 +537,7 @@
     "category": "workshop",
     "type": "WORKSHOP",
     "source": "https://iisc.ac.in/events/",
-    "scanned_at": "2026-05-03T08:25:32.112905Z"
+    "scanned_at": "2026-05-04T10:24:24.373654Z"
   },
   {
     "title": "The workshop also saw an inspiring exhibit—EntorQ 210, an award-winning concept scooter by TVS Motor Company, designed by a team comprising Arun Kumar",
@@ -537,7 +546,7 @@
     "category": "workshop",
     "type": "WORKSHOP",
     "source": "https://iisc.ac.in/events/",
-    "scanned_at": "2026-05-03T08:25:32.112917Z"
+    "scanned_at": "2026-05-04T10:24:24.373665Z"
   },
   {
     "title": "* Saleem Ahmed is a PhD scholar at CPDM, IISc, and was the Coordinator of the SIAM-CPDM Design Workshop",
@@ -546,7 +555,7 @@
     "category": "workshop",
     "type": "WORKSHOP",
     "source": "https://iisc.ac.in/events/",
-    "scanned_at": "2026-05-03T08:25:32.112926Z"
+    "scanned_at": "2026-05-04T10:24:24.373673Z"
   },
   {
     "title": "Given the importance of flow cytometry in biology, a symposium and hands-on workshop was organised with the aim of educating graduate students and fac",
@@ -555,7 +564,7 @@
     "category": "workshop",
     "type": "WORKSHOP",
     "source": "https://iisc.ac.in/events/",
-    "scanned_at": "2026-05-03T08:25:32.113103Z"
+    "scanned_at": "2026-05-04T10:24:24.373830Z"
   },
   {
     "title": "“In flow cytometry, it is often true that the devil is in the details and these workshops help people to understand these details”, said Joseph Trotte",
@@ -564,7 +573,7 @@
     "category": "workshop",
     "type": "WORKSHOP",
     "source": "https://iisc.ac.in/events/",
-    "scanned_at": "2026-05-03T08:25:32.113130Z"
+    "scanned_at": "2026-05-04T10:24:24.373854Z"
   },
   {
     "title": "The workshop saw many other renowned cytometrists like Awtar Krishan (University of Miami, USA), Zofia Maciorowski (Curie Institute, France), Sumeet G",
@@ -573,7 +582,7 @@
     "category": "workshop",
     "type": "WORKSHOP",
     "source": "https://iisc.ac.in/events/",
-    "scanned_at": "2026-05-03T08:25:32.113152Z"
+    "scanned_at": "2026-05-04T10:24:24.373874Z"
   },
   {
     "title": "Participants for this workshop were selected from institutions all over the country. One of them was Sabyasachi Pradhan, a PhD student from Jawaharlal",
@@ -582,7 +591,7 @@
     "category": "workshop",
     "type": "WORKSHOP",
     "source": "https://iisc.ac.in/events/",
-    "scanned_at": "2026-05-03T08:25:32.113172Z"
+    "scanned_at": "2026-05-04T10:24:24.373893Z"
   },
   {
     "title": "Amit Singh, Assistant Professor, Department of Microbiology and Cell Biology/Centre for Infectious Disease Research, IISc, speaking at the symposium.",
@@ -591,7 +600,7 @@
     "category": "microbiology",
     "type": "MICROB",
     "source": "https://iisc.ac.in/events/",
-    "scanned_at": "2026-05-03T08:25:32.113395Z"
+    "scanned_at": "2026-05-04T10:24:24.374079Z"
   },
   {
     "title": "Other topics of discussion during the symposium included infection genomics, host immune response, cellular and structural microbiology. Faculty membe",
@@ -600,7 +609,7 @@
     "category": "microbiology",
     "type": "MICROB",
     "source": "https://iisc.ac.in/events/",
-    "scanned_at": "2026-05-03T08:25:32.113473Z"
+    "scanned_at": "2026-05-04T10:24:24.374149Z"
   },
   {
     "title": "Workshop on Indo – French Collaboration in Marine Biology and Biotechnology",
@@ -609,7 +618,7 @@
     "category": "workshop",
     "type": "WORKSHOP",
     "source": "https://iisc.ac.in/events/",
-    "scanned_at": "2026-05-03T08:25:32.113534Z"
+    "scanned_at": "2026-05-04T10:24:24.374205Z"
   },
   {
     "title": "Participants from the workshop relaxing over dinner (Courtesy: Dr. N V Vinithkumar)",
@@ -618,7 +627,7 @@
     "category": "workshop",
     "type": "WORKSHOP",
     "source": "https://iisc.ac.in/events/",
-    "scanned_at": "2026-05-03T08:25:32.113545Z"
+    "scanned_at": "2026-05-04T10:24:24.374216Z"
   },
   {
     "title": "IISc and the Dakshin Foundation, Bangalore, jointly organized an Indo–French workshop titled Exploring the scope of collaborations in Marine Biology a",
@@ -627,7 +636,7 @@
     "category": "workshop",
     "type": "WORKSHOP",
     "source": "https://iisc.ac.in/events/",
-    "scanned_at": "2026-05-03T08:25:32.113569Z"
+    "scanned_at": "2026-05-04T10:24:24.374239Z"
   },
   {
     "title": "“The workshop provided an appropriate platform to understand diverse aspects of the vast coastline of India and to highlight the expertise of the Fren",
@@ -636,7 +645,7 @@
     "category": "workshop",
     "type": "WORKSHOP",
     "source": "https://iisc.ac.in/events/",
-    "scanned_at": "2026-05-03T08:25:32.113604Z"
+    "scanned_at": "2026-05-04T10:24:24.374269Z"
   },
   {
     "title": "During the workshop, Chris Bowler (Institut de Biologie de l’Ecole Normale Supérieure, France) spoke about the global patterns of diatom diversity rev",
@@ -645,7 +654,7 @@
     "category": "workshop",
     "type": "WORKSHOP",
     "source": "https://iisc.ac.in/events/",
-    "scanned_at": "2026-05-03T08:25:32.113632Z"
+    "scanned_at": "2026-05-04T10:24:24.374293Z"
   },
   {
     "title": "The conference concluded with a panel discussion on research collaborations between France and India. Such joint work, said Shanker, would help the ra",
@@ -654,7 +663,7 @@
     "category": "genomics",
     "type": "GENOMI",
     "source": "https://iisc.ac.in/events/",
-    "scanned_at": "2026-05-03T08:25:32.113694Z"
+    "scanned_at": "2026-05-04T10:24:24.374347Z"
   },
   {
     "title": "A conference on Municipal Solid Waste Management (MSWM) was held at IISc on 23 and 24 February, 2016. The event was jointly organised by the Energy an",
@@ -663,7 +672,7 @@
     "category": "conference",
     "type": "CONF",
     "source": "https://iisc.ac.in/events/",
-    "scanned_at": "2026-05-03T08:25:32.114068Z"
+    "scanned_at": "2026-05-04T10:24:24.374701Z"
   },
   {
     "title": "The conference also emphasized the importance of addressing systemic changes. Rajasekara Murthy, a Canadian environmental scientist, spoke about how c",
@@ -672,7 +681,7 @@
     "category": "conference",
     "type": "CONF",
     "source": "https://iisc.ac.in/events/",
-    "scanned_at": "2026-05-03T08:25:32.114179Z"
+    "scanned_at": "2026-05-04T10:24:24.374796Z"
   },
   {
     "title": "The conference saw many presentations, including posters by students, research scholars and representatives of various companies and resident welfare",
@@ -681,7 +690,7 @@
     "category": "conference",
     "type": "CONF",
     "source": "https://iisc.ac.in/events/",
-    "scanned_at": "2026-05-03T08:25:32.114198Z"
+    "scanned_at": "2026-05-04T10:24:24.374813Z"
   },
   {
     "title": "The Molecular Biophysics Unit (MBU), IISc, hosted the annual meeting of the Indian Biophysical Society from 8-10 February, 2016. The theme of the conf",
@@ -690,7 +699,7 @@
     "category": "conference",
     "type": "CONF",
     "source": "https://iisc.ac.in/events/",
-    "scanned_at": "2026-05-03T08:25:32.114247Z"
+    "scanned_at": "2026-05-04T10:24:24.374846Z"
   },
   {
     "title": "The opening night featured music and dance performances by undergraduate students, the highlight being a contemporary reworking of Tagore’s classic da",
@@ -699,7 +708,7 @@
     "category": "workshop",
     "type": "WORKSHOP",
     "source": "https://iisc.ac.in/events/",
-    "scanned_at": "2026-05-03T08:25:32.114377Z"
+    "scanned_at": "2026-05-04T10:24:24.374965Z"
   },
   {
     "title": "The 8th Biennial Conference of the Indian Society for Ecological Economics (INSEE) was held at IISc during 4-6 January, 2016. The conference was hoste",
@@ -708,7 +717,7 @@
     "category": "conference",
     "type": "CONF",
     "source": "https://iisc.ac.in/events/",
-    "scanned_at": "2026-05-03T08:25:32.114543Z"
+    "scanned_at": "2026-05-04T10:24:24.375121Z"
   },
   {
     "title": "The conference, whose theme was Urbanization and the Environment, was attended by close to 200 participants from 12 countries, which included people f",
@@ -717,7 +726,7 @@
     "category": "conference",
     "type": "CONF",
     "source": "https://iisc.ac.in/events/",
-    "scanned_at": "2026-05-03T08:25:32.114569Z"
+    "scanned_at": "2026-05-04T10:24:24.375145Z"
   },
   {
     "title": "The conference was inaugurated by Sunita Narain, Director General of the Centre for Science and Environment (CSE). In her talk, she asked, “Is the ter",
@@ -726,7 +735,7 @@
     "category": "conference",
     "type": "CONF",
     "source": "https://iisc.ac.in/events/",
-    "scanned_at": "2026-05-03T08:25:32.114600Z"
+    "scanned_at": "2026-05-04T10:24:24.375172Z"
   },
   {
     "title": "The organizers expect that the conference will go beyond stocktaking of current trends in the scholarship in the field, and set in motion a dialogue o",
@@ -735,7 +744,7 @@
     "category": "conference",
     "type": "CONF",
     "source": "https://iisc.ac.in/events/",
-    "scanned_at": "2026-05-03T08:25:32.114609Z"
+    "scanned_at": "2026-05-04T10:24:24.375180Z"
   },
   {
     "title": "In another event, organized as part of the same series on 13 January, 2016, Carol Trager-Cowan from the University of Strathclyde, UK, gave a lecture",
@@ -744,7 +753,7 @@
     "category": "workshop",
     "type": "WORKSHOP",
     "source": "https://iisc.ac.in/events/",
-    "scanned_at": "2026-05-03T08:25:32.114680Z"
+    "scanned_at": "2026-05-04T10:24:24.375246Z"
   },
   {
     "title": "From left to right: Ichizo Kobayashi, J Gowrishankar, Imran Siddiqui, DN Rao, Deepti Deobagkar and K VijayRaghavan (Courtesy: Department of Microbiolo",
@@ -753,7 +762,7 @@
     "category": "microbiology",
     "type": "MICROB",
     "source": "https://iisc.ac.in/events/",
-    "scanned_at": "2026-05-03T08:25:32.114759Z"
+    "scanned_at": "2026-05-04T10:24:24.375319Z"
   },
   {
     "title": "The Department of Microbiology and Cell Biology (MCB) celebrated its 75th anniversary by organizing a symposium, MCB75: From Molecules to Organisms, f",
@@ -762,7 +771,7 @@
     "category": "microbiology",
     "type": "MICROB",
     "source": "https://iisc.ac.in/events/",
-    "scanned_at": "2026-05-03T08:25:32.114777Z"
+    "scanned_at": "2026-05-04T10:24:24.375336Z"
   },
   {
     "title": "Ujjini Manjunatha, Novartis Institute for Tropical Diseases, Singapore, and Rajesh S Gokhale, Institute of Genomics and Integrative Biology, New Delhi",
@@ -771,7 +780,7 @@
     "category": "genomics",
     "type": "GENOMI",
     "source": "https://iisc.ac.in/events/",
-    "scanned_at": "2026-05-03T08:25:32.114816Z"
+    "scanned_at": "2026-05-04T10:24:24.375370Z"
   },
   {
     "title": "The newly-founded Centre for Brain Research (CBR) at IISc organized its first international conference from 16–18 November, 2015, on Neurodegenerative",
@@ -780,7 +789,7 @@
     "category": "conference",
     "type": "CONF",
     "source": "https://iisc.ac.in/events/",
-    "scanned_at": "2026-05-03T08:25:32.114882Z"
+    "scanned_at": "2026-05-04T10:24:24.375431Z"
   },
   {
     "title": "The conference concluded with a panel discussion on the importance of creating a “Dementia Network” – a common platform for caregivers, researchers an",
@@ -789,7 +798,7 @@
     "category": "conference",
     "type": "CONF",
     "source": "https://iisc.ac.in/events/",
-    "scanned_at": "2026-05-03T08:25:32.114978Z"
+    "scanned_at": "2026-05-04T10:24:24.375516Z"
   },
   {
     "title": "The Centre was founded earlier this year with a generous grant from the Pratiksha Trust, established by Kris Gopalakrishnan (co-founder of Infosys) an",
@@ -798,7 +807,7 @@
     "category": "conference",
     "type": "CONF",
     "source": "https://iisc.ac.in/events/",
-    "scanned_at": "2026-05-03T08:25:32.115002Z"
+    "scanned_at": "2026-05-04T10:24:24.375538Z"
   },
   {
     "title": "The Seventh International Workshop on Signal Design and its Applications in Communications (IWSDA’15) was organized from 13–18 September 2015 at IISc.",
@@ -807,7 +816,7 @@
     "category": "workshop",
     "type": "WORKSHOP",
     "source": "https://iisc.ac.in/events/",
-    "scanned_at": "2026-05-03T08:25:32.115259Z"
+    "scanned_at": "2026-05-04T10:24:24.375778Z"
   },
   {
     "title": "The biannual workshop was jointly organized by the Department of Electrical Communication Engineering (ECE) and the National Mathematics Initiative (N",
@@ -816,7 +825,7 @@
     "category": "workshop",
     "type": "WORKSHOP",
     "source": "https://iisc.ac.in/events/",
-    "scanned_at": "2026-05-03T08:25:32.115289Z"
+    "scanned_at": "2026-05-04T10:24:24.375806Z"
   },
   {
     "title": "The weeklong workshop covered a wide range of topics such as signal design for CDMA, error-correcting codes, cryptography and big data analytics. Ther",
@@ -825,7 +834,7 @@
     "category": "workshop",
     "type": "WORKSHOP",
     "source": "https://iisc.ac.in/events/",
-    "scanned_at": "2026-05-03T08:25:32.115301Z"
+    "scanned_at": "2026-05-04T10:24:24.375817Z"
   },
   {
     "title": "He was also one of the organizers of the workshop, which, he said, “provided a common discussion platform for pseudorandom sequence designers, coding",
@@ -834,7 +843,7 @@
     "category": "workshop",
     "type": "WORKSHOP",
     "source": "https://iisc.ac.in/events/",
-    "scanned_at": "2026-05-03T08:25:32.115326Z"
+    "scanned_at": "2026-05-04T10:24:24.375840Z"
   },
   {
     "title": "Around 500 participants from over 11 countries came together to share ideas and learn new skills during the event which included talks by experts, wor",
@@ -843,7 +852,7 @@
     "category": "conference",
     "type": "CONF",
     "source": "https://iisc.ac.in/events/",
-    "scanned_at": "2026-05-03T08:25:32.115395Z"
+    "scanned_at": "2026-05-04T10:24:24.375897Z"
   },
   {
     "title": "Different Conference Format",
@@ -852,7 +861,7 @@
     "category": "conference",
     "type": "CONF",
     "source": "https://iisc.ac.in/events/",
-    "scanned_at": "2026-05-03T08:25:32.115433Z"
+    "scanned_at": "2026-05-04T10:24:24.375932Z"
   },
   {
     "title": "The first day of the conference focused entirely on long workshops, which ran for six hours each. Other days included shorter workshops every afternoo",
@@ -861,7 +870,7 @@
     "category": "conference",
     "type": "CONF",
     "source": "https://iisc.ac.in/events/",
-    "scanned_at": "2026-05-03T08:25:32.115450Z"
+    "scanned_at": "2026-05-04T10:24:24.375947Z"
   },
   {
     "title": "Every evening during the four-day conference, the JN Tata Auditorium, IISc hosted a talk which was free and open to the general public. Krushnamegh Ku",
@@ -870,7 +879,7 @@
     "category": "conference",
     "type": "CONF",
     "source": "https://iisc.ac.in/events/",
-    "scanned_at": "2026-05-03T08:25:32.115464Z"
+    "scanned_at": "2026-05-04T10:24:24.375960Z"
   },
   {
     "title": "Students gave short presentations on a variety of topics, and from among them, the ones by Grace Nugi from Papua New Guinea, Rachakonda Sreekar from I",
@@ -879,7 +888,7 @@
     "category": "conference",
     "type": "CONF",
     "source": "https://iisc.ac.in/events/",
-    "scanned_at": "2026-05-03T08:25:32.115474Z"
+    "scanned_at": "2026-05-04T10:24:24.375971Z"
   },
   {
     "title": "Summer Internship - 2026",
@@ -888,7 +897,7 @@
     "category": "internship",
     "type": "INTERN",
     "source": "https://iiserb.ac.in",
-    "scanned_at": "2026-05-03T08:25:40.975340Z"
+    "scanned_at": "2026-05-04T10:24:33.723699Z"
   },
   {
     "title": "Mr. Naresh Aggarwal (Roll no. 1920511) Ph.D. student, Department of Physics received the best poster presentation award in the International Conferenc",
@@ -897,7 +906,7 @@
     "category": "conference",
     "type": "CONF",
     "source": "https://iiserb.ac.in",
-    "scanned_at": "2026-05-03T08:25:40.976677Z"
+    "scanned_at": "2026-05-04T10:24:33.725007Z"
   },
   {
     "title": "Summer Internship 2026",
@@ -906,7 +915,7 @@
     "category": "internship",
     "type": "INTERN",
     "source": "https://iiserb.ac.in",
-    "scanned_at": "2026-05-03T08:25:40.976966Z"
+    "scanned_at": "2026-05-04T10:24:33.725281Z"
   },
   {
     "title": "Archive - Colloquia and Seminars",
@@ -915,7 +924,7 @@
     "category": "seminar",
     "type": "SEMINAR",
     "source": "https://www.iisermohali.ac.in/events",
-    "scanned_at": "2026-05-03T08:25:58.271438Z"
+    "scanned_at": "2026-05-04T10:24:50.574855Z"
   },
   {
     "title": "Archive - Seminars and Colloquia at IISER Mohali",
@@ -924,7 +933,7 @@
     "category": "seminar",
     "type": "SEMINAR",
     "source": "https://www.iisermohali.ac.in/events",
-    "scanned_at": "2026-05-03T08:25:58.271467Z"
+    "scanned_at": "2026-05-04T10:24:50.574884Z"
   },
   {
     "title": "Seminars and Colloquia at IISER Mohali",
@@ -933,7 +942,7 @@
     "category": "seminar",
     "type": "SEMINAR",
     "source": "https://www.iisermohali.ac.in/events",
-    "scanned_at": "2026-05-03T08:25:58.271481Z"
+    "scanned_at": "2026-05-04T10:24:50.574898Z"
   },
   {
     "title": "Colloquia/Seminars/Conferences - Past Events -- from this site -- loadposition",
@@ -942,7 +951,7 @@
     "category": "conference",
     "type": "CONF",
     "source": "https://www.iisermohali.ac.in/events",
-    "scanned_at": "2026-05-03T08:25:58.271500Z"
+    "scanned_at": "2026-05-04T10:24:50.574917Z"
   },
   {
     "title": "Colloquia/Seminars/Conferences - Past Events",
@@ -951,7 +960,7 @@
     "category": "conference",
     "type": "CONF",
     "source": "https://www.iisermohali.ac.in/events",
-    "scanned_at": "2026-05-03T08:25:58.271507Z"
+    "scanned_at": "2026-05-04T10:24:50.574924Z"
   },
   {
     "title": "Colloquia/Seminars/Conferences/Workshops - Past events - 2023",
@@ -960,7 +969,7 @@
     "category": "conference",
     "type": "CONF",
     "source": "https://www.iisermohali.ac.in/events",
-    "scanned_at": "2026-05-03T08:25:58.271514Z"
+    "scanned_at": "2026-05-04T10:24:50.574931Z"
   },
   {
     "title": "Colloquia/Seminars/Conferences/Workshops - 2022",
@@ -969,7 +978,7 @@
     "category": "conference",
     "type": "CONF",
     "source": "https://www.iisermohali.ac.in/events",
-    "scanned_at": "2026-05-03T08:25:58.271526Z"
+    "scanned_at": "2026-05-04T10:24:50.574944Z"
   },
   {
     "title": "Colloquia/Seminars/Conferences/Workshops - 2021",
@@ -978,7 +987,7 @@
     "category": "conference",
     "type": "CONF",
     "source": "https://www.iisermohali.ac.in/events",
-    "scanned_at": "2026-05-03T08:25:58.271536Z"
+    "scanned_at": "2026-05-04T10:24:50.574955Z"
   },
   {
     "title": "Colloquia/Seminars/Conferences/Workshops - 2020",
@@ -987,7 +996,7 @@
     "category": "conference",
     "type": "CONF",
     "source": "https://www.iisermohali.ac.in/events",
-    "scanned_at": "2026-05-03T08:25:58.271547Z"
+    "scanned_at": "2026-05-04T10:24:50.574966Z"
   },
   {
     "title": "Colloquia/Seminars/Conferences/Workshops - 2019",
@@ -996,7 +1005,7 @@
     "category": "conference",
     "type": "CONF",
     "source": "https://www.iisermohali.ac.in/events",
-    "scanned_at": "2026-05-03T08:25:58.271558Z"
+    "scanned_at": "2026-05-04T10:24:50.574977Z"
   },
   {
     "title": "Colloquia/Seminars/Conferences/Workshops - 2018",
@@ -1005,7 +1014,7 @@
     "category": "conference",
     "type": "CONF",
     "source": "https://www.iisermohali.ac.in/events",
-    "scanned_at": "2026-05-03T08:25:58.271568Z"
+    "scanned_at": "2026-05-04T10:24:50.574987Z"
   },
   {
     "title": "Colloquia/Seminars/Conferences/Workshops - 2017",
@@ -1014,7 +1023,7 @@
     "category": "conference",
     "type": "CONF",
     "source": "https://www.iisermohali.ac.in/events",
-    "scanned_at": "2026-05-03T08:25:58.271579Z"
+    "scanned_at": "2026-05-04T10:24:50.574998Z"
   },
   {
     "title": "Colloquia and Seminars 2016",
@@ -1023,7 +1032,7 @@
     "category": "seminar",
     "type": "SEMINAR",
     "source": "https://www.iisermohali.ac.in/events",
-    "scanned_at": "2026-05-03T08:25:58.271590Z"
+    "scanned_at": "2026-05-04T10:24:50.575009Z"
   },
   {
     "title": "Colloquia and Seminars 2015",
@@ -1032,7 +1041,7 @@
     "category": "seminar",
     "type": "SEMINAR",
     "source": "https://www.iisermohali.ac.in/events",
-    "scanned_at": "2026-05-03T08:25:58.271601Z"
+    "scanned_at": "2026-05-04T10:24:50.575020Z"
   },
   {
     "title": "Colloquia and Seminars 2014",
@@ -1041,7 +1050,7 @@
     "category": "seminar",
     "type": "SEMINAR",
     "source": "https://www.iisermohali.ac.in/events",
-    "scanned_at": "2026-05-03T08:25:58.271612Z"
+    "scanned_at": "2026-05-04T10:24:50.575031Z"
   },
   {
     "title": "Colloquia and Seminars 2013",
@@ -1050,7 +1059,7 @@
     "category": "seminar",
     "type": "SEMINAR",
     "source": "https://www.iisermohali.ac.in/events",
-    "scanned_at": "2026-05-03T08:25:58.271622Z"
+    "scanned_at": "2026-05-04T10:24:50.575042Z"
   },
   {
     "title": "Colloquia and Seminars 2012",
@@ -1059,7 +1068,7 @@
     "category": "seminar",
     "type": "SEMINAR",
     "source": "https://www.iisermohali.ac.in/events",
-    "scanned_at": "2026-05-03T08:25:58.271632Z"
+    "scanned_at": "2026-05-04T10:24:50.575052Z"
   },
   {
     "title": "Colloquia and Seminars 2011",
@@ -1068,7 +1077,7 @@
     "category": "seminar",
     "type": "SEMINAR",
     "source": "https://www.iisermohali.ac.in/events",
-    "scanned_at": "2026-05-03T08:25:58.271642Z"
+    "scanned_at": "2026-05-04T10:24:50.575063Z"
   },
   {
     "title": "Colloquia and Seminars 2010",
@@ -1077,7 +1086,7 @@
     "category": "seminar",
     "type": "SEMINAR",
     "source": "https://www.iisermohali.ac.in/events",
-    "scanned_at": "2026-05-03T08:25:58.271653Z"
+    "scanned_at": "2026-05-04T10:24:50.575073Z"
   },
   {
     "title": "Colloquia and Seminars 2009",
@@ -1086,7 +1095,7 @@
     "category": "seminar",
     "type": "SEMINAR",
     "source": "https://www.iisermohali.ac.in/events",
-    "scanned_at": "2026-05-03T08:25:58.271663Z"
+    "scanned_at": "2026-05-04T10:24:50.575084Z"
   },
   {
     "title": "Colloquia and Seminars 2008",
@@ -1095,7 +1104,7 @@
     "category": "seminar",
     "type": "SEMINAR",
     "source": "https://www.iisermohali.ac.in/events",
-    "scanned_at": "2026-05-03T08:25:58.271673Z"
+    "scanned_at": "2026-05-04T10:24:50.575094Z"
   },
   {
     "title": "Colloquia and Seminars 2007",
@@ -1104,7 +1113,7 @@
     "category": "seminar",
     "type": "SEMINAR",
     "source": "https://www.iisermohali.ac.in/events",
-    "scanned_at": "2026-05-03T08:25:58.271683Z"
+    "scanned_at": "2026-05-04T10:24:50.575104Z"
   },
   {
     "title": "Archive - Conferences",
@@ -1113,7 +1122,7 @@
     "category": "conference",
     "type": "CONF",
     "source": "https://www.iisermohali.ac.in/events",
-    "scanned_at": "2026-05-03T08:25:58.272360Z"
+    "scanned_at": "2026-05-04T10:24:50.575809Z"
   },
   {
     "title": "Archive - Conferences/Meetings/Workshops at IISER Mohali",
@@ -1122,7 +1131,7 @@
     "category": "conference",
     "type": "CONF",
     "source": "https://www.iisermohali.ac.in/events",
-    "scanned_at": "2026-05-03T08:25:58.272373Z"
+    "scanned_at": "2026-05-04T10:24:50.575824Z"
   },
   {
     "title": "2019-VP Workshop for School Teachers",
@@ -1131,7 +1140,7 @@
     "category": "workshop",
     "type": "WORKSHOP",
     "source": "https://www.iisermohali.ac.in/events",
-    "scanned_at": "2026-05-03T08:25:58.272436Z"
+    "scanned_at": "2026-05-04T10:24:50.575887Z"
   },
   {
     "title": "2019-International Workshop on feminist and queer urban geographies",
@@ -1140,7 +1149,7 @@
     "category": "workshop",
     "type": "WORKSHOP",
     "source": "https://www.iisermohali.ac.in/events",
-    "scanned_at": "2026-05-03T08:25:58.272455Z"
+    "scanned_at": "2026-05-04T10:24:50.575906Z"
   },
   {
     "title": "2019-COSPAR capacity building workshop on broadband timing and spectral studies with Astrosat, Chandra and XMM-Newton",
@@ -1149,7 +1158,7 @@
     "category": "workshop",
     "type": "WORKSHOP",
     "source": "https://www.iisermohali.ac.in/events",
-    "scanned_at": "2026-05-03T08:25:58.272486Z"
+    "scanned_at": "2026-05-04T10:24:50.575937Z"
   },
   {
     "title": "2019-Belle Analysis Workshop 2019",
@@ -1158,7 +1167,7 @@
     "category": "workshop",
     "type": "WORKSHOP",
     "source": "https://www.iisermohali.ac.in/events",
-    "scanned_at": "2026-05-03T08:25:58.272509Z"
+    "scanned_at": "2026-05-04T10:24:50.575961Z"
   },
   {
     "title": "2018-Workshop on Soft Skills (Dr. V V S Sharma and Mr. Muralidhar Dasyapu (Centre for Attitude Management by Education and Learning) )",
@@ -1167,7 +1176,7 @@
     "category": "workshop",
     "type": "WORKSHOP",
     "source": "https://www.iisermohali.ac.in/events",
-    "scanned_at": "2026-05-03T08:25:58.272524Z"
+    "scanned_at": "2026-05-04T10:24:50.575976Z"
   },
   {
     "title": "2018-24th Conference of the National Magnetic Resonance Society of India",
@@ -1176,7 +1185,7 @@
     "category": "conference",
     "type": "CONF",
     "source": "https://www.iisermohali.ac.in/events",
-    "scanned_at": "2026-05-03T08:25:58.272531Z"
+    "scanned_at": "2026-05-04T10:24:50.575983Z"
   },
   {
     "title": "2018-Workshop on \"Communicating science using Indian folk art\". (A Folk-Science workshop by Dr. Bitasta Das and Mr. Pratik Prabhakar )",
@@ -1185,7 +1194,7 @@
     "category": "workshop",
     "type": "WORKSHOP",
     "source": "https://www.iisermohali.ac.in/events",
-    "scanned_at": "2026-05-03T08:25:58.272545Z"
+    "scanned_at": "2026-05-04T10:24:50.575997Z"
   },
   {
     "title": "2018-Workshop on \"Solution-Oriented Approach for Conservation of Water Resources\"",
@@ -1194,7 +1203,7 @@
     "category": "workshop",
     "type": "WORKSHOP",
     "source": "https://www.iisermohali.ac.in/events",
-    "scanned_at": "2026-05-03T08:25:58.272563Z"
+    "scanned_at": "2026-05-04T10:24:50.576014Z"
   },
   {
     "title": "2017-24th National Conference on Liquid Crystals NCLC-2017",
@@ -1203,7 +1212,7 @@
     "category": "conference",
     "type": "CONF",
     "source": "https://www.iisermohali.ac.in/events",
-    "scanned_at": "2026-05-03T08:25:58.272595Z"
+    "scanned_at": "2026-05-04T10:24:50.576047Z"
   },
   {
     "title": "2017-7th East Asian Conference on Algebraic Topology (EACAT)",
@@ -1212,7 +1221,7 @@
     "category": "conference",
     "type": "CONF",
     "source": "https://www.iisermohali.ac.in/events",
-    "scanned_at": "2026-05-03T08:25:58.272613Z"
+    "scanned_at": "2026-05-04T10:24:50.576065Z"
   },
   {
     "title": "2017-India-Russia 70th Anniversary Celebration Workshop: Groups and Related Structures",
@@ -1221,7 +1230,7 @@
     "category": "workshop",
     "type": "WORKSHOP",
     "source": "https://www.iisermohali.ac.in/events",
-    "scanned_at": "2026-05-03T08:25:58.272627Z"
+    "scanned_at": "2026-05-04T10:24:50.576079Z"
   },
   {
     "title": "2017-International Conference on Intrinsically Disordered Proteins",
@@ -1230,7 +1239,7 @@
     "category": "conference",
     "type": "CONF",
     "source": "https://www.iisermohali.ac.in/events",
-    "scanned_at": "2026-05-03T08:25:58.272639Z"
+    "scanned_at": "2026-05-04T10:24:50.576091Z"
   },
   {
     "title": "2017-Teachers' Enrichment Workshop for College Teachers",
@@ -1239,7 +1248,7 @@
     "category": "workshop",
     "type": "WORKSHOP",
     "source": "https://www.iisermohali.ac.in/events",
-    "scanned_at": "2026-05-03T08:25:58.272651Z"
+    "scanned_at": "2026-05-04T10:24:50.576104Z"
   },
   {
     "title": "2016-International Workshop on Critical Geographies of the Himalayan Region",
@@ -1248,7 +1257,7 @@
     "category": "workshop",
     "type": "WORKSHOP",
     "source": "https://www.iisermohali.ac.in/events",
-    "scanned_at": "2026-05-03T08:25:58.272673Z"
+    "scanned_at": "2026-05-04T10:24:50.576125Z"
   },
   {
     "title": "2016-International Workshop and Meeting on Biosphere",
@@ -1257,7 +1266,7 @@
     "category": "workshop",
     "type": "WORKSHOP",
     "source": "https://www.iisermohali.ac.in/events",
-    "scanned_at": "2026-05-03T08:25:58.272685Z"
+    "scanned_at": "2026-05-04T10:24:50.576137Z"
   },
   {
     "title": "2016-DST INSPIRE internship camp",
@@ -1266,7 +1275,7 @@
     "category": "internship",
     "type": "INTERN",
     "source": "https://www.iisermohali.ac.in/events",
-    "scanned_at": "2026-05-03T08:25:58.272736Z"
+    "scanned_at": "2026-05-04T10:24:50.576190Z"
   },
   {
     "title": "2015-International Conference on Gravitation and Cosmology",
@@ -1275,7 +1284,7 @@
     "category": "conference",
     "type": "CONF",
     "source": "https://www.iisermohali.ac.in/events",
-    "scanned_at": "2026-05-03T08:25:58.272749Z"
+    "scanned_at": "2026-05-04T10:24:50.576202Z"
   },
   {
     "title": "2015-Biology Research Seminar Day : Winter 2015",
@@ -1284,7 +1293,7 @@
     "category": "seminar",
     "type": "SEMINAR",
     "source": "https://www.iisermohali.ac.in/events",
-    "scanned_at": "2026-05-03T08:25:58.272760Z"
+    "scanned_at": "2026-05-04T10:24:50.576214Z"
   },
   {
     "title": "2015-National Conference on Ethology and Evolution 2015",
@@ -1293,7 +1302,7 @@
     "category": "conference",
     "type": "CONF",
     "source": "https://www.iisermohali.ac.in/events",
-    "scanned_at": "2026-05-03T08:25:58.272779Z"
+    "scanned_at": "2026-05-04T10:24:50.576232Z"
   },
   {
     "title": "2015-Workshop on Higher Education and Research Opportunities in Germany",
@@ -1302,7 +1311,7 @@
     "category": "workshop",
     "type": "WORKSHOP",
     "source": "https://www.iisermohali.ac.in/events",
-    "scanned_at": "2026-05-03T08:25:58.272797Z"
+    "scanned_at": "2026-05-04T10:24:50.576251Z"
   },
   {
     "title": "2015-Annual Conference of the Ramanujan Mathematical Society",
@@ -1311,7 +1320,7 @@
     "category": "conference",
     "type": "CONF",
     "source": "https://www.iisermohali.ac.in/events",
-    "scanned_at": "2026-05-03T08:25:58.272824Z"
+    "scanned_at": "2026-05-04T10:24:50.576277Z"
   },
   {
     "title": "2015-11th Annual Meet and Workshop of INDEST-AICTE Consortium",
@@ -1320,7 +1329,7 @@
     "category": "workshop",
     "type": "WORKSHOP",
     "source": "https://www.iisermohali.ac.in/events",
-    "scanned_at": "2026-05-03T08:25:58.272836Z"
+    "scanned_at": "2026-05-04T10:24:50.576289Z"
   },
   {
     "title": "2015-Conference on Nonlinear systems and dynamics , CNSD 2015",
@@ -1329,7 +1338,7 @@
     "category": "conference",
     "type": "CONF",
     "source": "https://www.iisermohali.ac.in/events",
-    "scanned_at": "2026-05-03T08:25:58.272848Z"
+    "scanned_at": "2026-05-04T10:24:50.576301Z"
   },
   {
     "title": "2014-Advanced Training in Mathematic Workshop on Lattices: Geometry and Dynamics",
@@ -1338,7 +1347,7 @@
     "category": "workshop",
     "type": "WORKSHOP",
     "source": "https://www.iisermohali.ac.in/events",
-    "scanned_at": "2026-05-03T08:25:58.272860Z"
+    "scanned_at": "2026-05-04T10:24:50.576314Z"
   },
   {
     "title": "2014-International Workshop: Knots, Braids and Topology",
@@ -1347,7 +1356,7 @@
     "category": "workshop",
     "type": "WORKSHOP",
     "source": "https://www.iisermohali.ac.in/events",
-    "scanned_at": "2026-05-03T08:25:58.272873Z"
+    "scanned_at": "2026-05-04T10:24:50.576327Z"
   },
   {
     "title": "2014-National Seminar on Crystallography",
@@ -1356,7 +1365,7 @@
     "category": "seminar",
     "type": "SEMINAR",
     "source": "https://www.iisermohali.ac.in/events",
-    "scanned_at": "2026-05-03T08:25:58.272910Z"
+    "scanned_at": "2026-05-04T10:24:50.576365Z"
   },
   {
     "title": "2012-MPIC-DST Inaugration and Atmospheric Chemistry workshop",
@@ -1365,7 +1374,7 @@
     "category": "workshop",
     "type": "WORKSHOP",
     "source": "https://www.iisermohali.ac.in/events",
-    "scanned_at": "2026-05-03T08:25:58.272972Z"
+    "scanned_at": "2026-05-04T10:24:50.576427Z"
   },
   {
     "title": "2012-Engaging Science:Dialogues across disciplines Conference",
@@ -1374,7 +1383,7 @@
     "category": "conference",
     "type": "CONF",
     "source": "https://www.iisermohali.ac.in/events",
-    "scanned_at": "2026-05-03T08:25:58.272985Z"
+    "scanned_at": "2026-05-04T10:24:50.576440Z"
   },
   {
     "title": "2011-JNOST Conference",
@@ -1383,7 +1392,7 @@
     "category": "conference",
     "type": "CONF",
     "source": "https://www.iisermohali.ac.in/events",
-    "scanned_at": "2026-05-03T08:25:58.273028Z"
+    "scanned_at": "2026-05-04T10:24:50.576483Z"
   },
   {
     "title": "2011-ATM Workshop in Group Theory",
@@ -1392,7 +1401,7 @@
     "category": "workshop",
     "type": "WORKSHOP",
     "source": "https://www.iisermohali.ac.in/events",
-    "scanned_at": "2026-05-03T08:25:58.273064Z"
+    "scanned_at": "2026-05-04T10:24:50.576519Z"
   },
   {
     "title": "2009-Workshop: Build Your Own Computer",
@@ -1401,7 +1410,7 @@
     "category": "workshop",
     "type": "WORKSHOP",
     "source": "https://www.iisermohali.ac.in/events",
-    "scanned_at": "2026-05-03T08:25:58.273107Z"
+    "scanned_at": "2026-05-04T10:24:50.576577Z"
   },
   {
     "title": "Upcoming Conferences-Meetings-Workshops",
@@ -1410,7 +1419,7 @@
     "category": "conference",
     "type": "CONF",
     "source": "https://www.iisermohali.ac.in/events",
-    "scanned_at": "2026-05-03T08:25:58.273161Z"
+    "scanned_at": "2026-05-04T10:24:50.576633Z"
   },
   {
     "title": "Upcoming Conferences/Meetings/Workshops",
@@ -1419,7 +1428,7 @@
     "category": "conference",
     "type": "CONF",
     "source": "https://www.iisermohali.ac.in/events",
-    "scanned_at": "2026-05-03T08:25:58.273173Z"
+    "scanned_at": "2026-05-04T10:24:50.576645Z"
   },
   {
     "title": "International Conference on Gravitation and Cosmology (ICGC) December 14-18, 2015",
@@ -1428,7 +1437,7 @@
     "category": "conference",
     "type": "CONF",
     "source": "https://www.iisermohali.ac.in/events",
-    "scanned_at": "2026-05-03T08:25:58.273188Z"
+    "scanned_at": "2026-05-04T10:24:50.576662Z"
   },
   {
     "title": "39th Annual Conference of Ethological Society of India & Evolutionary Biology Society of India, October 16-18, 2015",
@@ -1437,7 +1446,7 @@
     "category": "conference",
     "type": "CONF",
     "source": "https://www.iisermohali.ac.in/events",
-    "scanned_at": "2026-05-03T08:25:58.273226Z"
+    "scanned_at": "2026-05-04T10:24:50.576692Z"
   },
   {
     "title": "Past conferences -Archive",
@@ -1446,7 +1455,7 @@
     "category": "conference",
     "type": "CONF",
     "source": "https://www.iisermohali.ac.in/events",
-    "scanned_at": "2026-05-03T08:25:58.273249Z"
+    "scanned_at": "2026-05-04T10:24:50.576714Z"
   },
   {
     "title": "Seminars 2015 (Jan - Jun)",
@@ -1455,7 +1464,7 @@
     "category": "seminar",
     "type": "SEMINAR",
     "source": "https://www.iisermohali.ac.in/events",
-    "scanned_at": "2026-05-03T08:25:58.273312Z"
+    "scanned_at": "2026-05-04T10:24:50.576777Z"
   },
   {
     "title": "IISERM Seminars Archive Jan 2015 - Jun 2015",
@@ -1464,7 +1473,7 @@
     "category": "seminar",
     "type": "SEMINAR",
     "source": "https://www.iisermohali.ac.in/events",
-    "scanned_at": "2026-05-03T08:25:58.273323Z"
+    "scanned_at": "2026-05-04T10:24:50.576790Z"
   },
   {
     "title": "Conferences",
@@ -1473,7 +1482,7 @@
     "category": "conference",
     "type": "CONF",
     "source": "https://www.iisermohali.ac.in/events",
-    "scanned_at": "2026-05-03T08:25:58.273948Z"
+    "scanned_at": "2026-05-04T10:24:50.577399Z"
   },
   {
     "title": "New! Advanced Bioimaging Workshop 2026",
@@ -1482,7 +1491,7 @@
     "category": "workshop",
     "type": "WORKSHOP",
     "source": "https://biotech.iitm.ac.in/",
-    "scanned_at": "2026-05-03T08:25:59.714270Z"
+    "scanned_at": "2026-05-04T10:24:52.268757Z"
   },
   {
     "title": "CARE Conference 2025",
@@ -1491,7 +1500,7 @@
     "category": "conference",
     "type": "CONF",
     "source": "https://biotech.iitm.ac.in/",
-    "scanned_at": "2026-05-03T08:25:59.714313Z"
+    "scanned_at": "2026-05-04T10:24:52.268797Z"
   },
   {
     "title": "The Thermo Scientific Orbitrap Exploris 240 LC-MS/MS is a high-resolution, high-performance mass spectrometer that combines quadrupole and Orbitrap te",
@@ -1500,7 +1509,7 @@
     "category": "proteomics",
     "type": "PROTEO",
     "source": "https://biotech.iitm.ac.in/",
-    "scanned_at": "2026-05-03T08:25:59.714540Z"
+    "scanned_at": "2026-05-04T10:24:52.269008Z"
   },
   {
     "title": "Congratulations to Prof. Michael for becoming an Editorial Board Member of the journal \"Bioinformatics and Biology Insights\"",
@@ -1509,7 +1518,7 @@
     "category": "bioinformatics",
     "type": "BIOINF",
     "source": "https://biotech.iitm.ac.in/",
-    "scanned_at": "2026-05-03T08:25:59.714905Z"
+    "scanned_at": "2026-05-04T10:24:52.269352Z"
   },
   {
     "title": "Congratulations to Tarun Shyam Mohan for receiving BD Biosciences Best\r\nPoster Presentation Award in Molecular Medicine at the Pan-IIT Meeting and Con",
@@ -1518,7 +1527,7 @@
     "category": "conference",
     "type": "CONF",
     "source": "https://biotech.iitm.ac.in/",
-    "scanned_at": "2026-05-03T08:25:59.714949Z"
+    "scanned_at": "2026-05-04T10:24:52.269394Z"
   },
   {
     "title": "Congratulations to Ms. Meera Alagu Sundari P. M. on winning First Prize and the Young Scientist Award at BioProcessing India Conference 2025, IIT (BHU",
@@ -1527,7 +1536,7 @@
     "category": "conference",
     "type": "CONF",
     "source": "https://biotech.iitm.ac.in/",
-    "scanned_at": "2026-05-03T08:25:59.715137Z"
+    "scanned_at": "2026-05-04T10:24:52.269590Z"
   },
   {
     "title": "Workshop on Mass Spectrometry based Proteomics",
@@ -1536,7 +1545,7 @@
     "category": "proteomics",
     "type": "PROTEO",
     "source": "https://biotech.iitm.ac.in/",
-    "scanned_at": "2026-05-03T08:25:59.715255Z"
+    "scanned_at": "2026-05-04T10:24:52.269699Z"
   },
   {
     "title": "Admissions Why IITB? Undergraduate Masters PhD International Applicants Research Internship Educator Training (QIP) Women Students",
@@ -1545,7 +1554,7 @@
     "category": "internship",
     "type": "INTERN",
     "source": "https://iitb.ac.in",
-    "scanned_at": "2026-05-03T08:26:03.237076Z"
+    "scanned_at": "2026-05-04T10:24:55.596509Z"
   },
   {
     "title": "Research Internship",
@@ -1554,7 +1563,7 @@
     "category": "internship",
     "type": "INTERN",
     "source": "https://iitb.ac.in",
-    "scanned_at": "2026-05-03T08:26:03.237131Z"
+    "scanned_at": "2026-05-04T10:24:55.596578Z"
   },
   {
     "title": "International Conference on 3rd Meeting of Young Minds in Frontiers of Economics",
@@ -1563,7 +1572,7 @@
     "category": "conference",
     "type": "CONF",
     "source": "https://iitb.ac.in",
-    "scanned_at": "2026-05-03T08:26:03.239418Z"
+    "scanned_at": "2026-05-04T10:24:55.599015Z"
   },
   {
     "title": "Seminar-cum-Workshop on Staggered Difference-in-Differences Designs",
@@ -1572,7 +1581,7 @@
     "category": "seminar",
     "type": "SEMINAR",
     "source": "https://iitb.ac.in",
-    "scanned_at": "2026-05-03T08:26:03.239456Z"
+    "scanned_at": "2026-05-04T10:24:55.599055Z"
   },
   {
     "title": "Workshop on \"Women in Construction\"",
@@ -1581,7 +1590,7 @@
     "category": "workshop",
     "type": "WORKSHOP",
     "source": "https://iitb.ac.in",
-    "scanned_at": "2026-05-03T08:26:03.239486Z"
+    "scanned_at": "2026-05-04T10:24:55.599086Z"
   },
   {
     "title": "International Conference on Academic Research and Industrial Challenges in Glass and Ceramics (RAICGC 2025)",
@@ -1590,7 +1599,7 @@
     "category": "conference",
     "type": "CONF",
     "source": "https://iitb.ac.in",
-    "scanned_at": "2026-05-03T08:26:03.239682Z"
+    "scanned_at": "2026-05-04T10:24:55.599294Z"
   },
   {
     "title": "Genomics / Lipidomics / Metabolomics",
@@ -1599,7 +1608,7 @@
     "category": "genomics",
     "type": "GENOMI",
     "source": "https://www.bio.iitb.ac.in/",
-    "scanned_at": "2026-05-03T08:26:04.904517Z"
+    "scanned_at": "2026-05-04T10:24:57.136009Z"
   },
   {
     "title": "Bioinformatics",
@@ -1608,7 +1617,7 @@
     "category": "bioinformatics",
     "type": "BIOINF",
     "source": "https://www.bio.iitb.ac.in/",
-    "scanned_at": "2026-05-03T08:26:04.904543Z"
+    "scanned_at": "2026-05-04T10:24:57.136032Z"
   },
   {
     "title": "Proteomics book published",
@@ -1617,7 +1626,7 @@
     "category": "proteomics",
     "type": "PROTEO",
     "source": "https://www.bio.iitb.ac.in/",
-    "scanned_at": "2026-05-03T08:26:04.904799Z"
+    "scanned_at": "2026-05-04T10:24:57.136270Z"
   },
   {
     "title": "book on Proteomics has been published by CRC press",
@@ -1626,7 +1635,7 @@
     "category": "proteomics",
     "type": "PROTEO",
     "source": "https://www.bio.iitb.ac.in/",
-    "scanned_at": "2026-05-03T08:26:04.904809Z"
+    "scanned_at": "2026-05-04T10:24:57.136279Z"
   },
   {
     "title": "Department Seminars",
@@ -1635,7 +1644,7 @@
     "category": "seminar",
     "type": "SEMINAR",
     "source": "https://www.bio.iitb.ac.in/",
-    "scanned_at": "2026-05-03T08:26:04.904999Z"
+    "scanned_at": "2026-05-04T10:24:57.136450Z"
   },
   {
     "title": "Seminar Room Booking",
@@ -1644,7 +1653,7 @@
     "category": "seminar",
     "type": "SEMINAR",
     "source": "https://www.bio.iitb.ac.in/",
-    "scanned_at": "2026-05-03T08:26:04.905011Z"
+    "scanned_at": "2026-05-04T10:24:57.136461Z"
   },
   {
     "title": "Research Latest Research Research & Development Unit (IRD Unit) Corporate Relations Central Facilities Central Research Facility Central Manufacturing",
@@ -1653,7 +1662,7 @@
     "category": "conference",
     "type": "CONF",
     "source": "https://iitd.ac.in",
-    "scanned_at": "2026-05-03T08:26:08.163648Z"
+    "scanned_at": "2026-05-04T10:25:00.529134Z"
   },
   {
     "title": "PhD Seminars",
@@ -1662,7 +1671,7 @@
     "category": "seminar",
     "type": "SEMINAR",
     "source": "https://iitd.ac.in",
-    "scanned_at": "2026-05-03T08:26:08.163793Z"
+    "scanned_at": "2026-05-04T10:25:00.529279Z"
   },
   {
     "title": "Call for Applications: Transformative Leadership in STEMM (TLS) Workshop...",
@@ -1671,7 +1680,7 @@
     "category": "workshop",
     "type": "WORKSHOP",
     "source": "https://iitd.ac.in",
-    "scanned_at": "2026-05-03T08:26:08.164590Z"
+    "scanned_at": "2026-05-04T10:25:00.530096Z"
   },
   {
     "title": "IIT Delhi hosts a variety of events ranging from Seminars, Talks, Conferences, Fests, etc. Currently, there are no upcoming events. Please check back",
@@ -1680,7 +1689,7 @@
     "category": "conference",
     "type": "CONF",
     "source": "https://iitd.ac.in",
-    "scanned_at": "2026-05-03T08:26:08.165196Z"
+    "scanned_at": "2026-05-04T10:25:00.530731Z"
   },
   {
     "title": "PhD Seminars View all",
@@ -1689,7 +1698,7 @@
     "category": "seminar",
     "type": "SEMINAR",
     "source": "https://iitd.ac.in",
-    "scanned_at": "2026-05-03T08:26:08.165813Z"
+    "scanned_at": "2026-05-04T10:25:00.531355Z"
   },
   {
     "title": "See upcoming Seminars",
@@ -1698,7 +1707,7 @@
     "category": "seminar",
     "type": "SEMINAR",
     "source": "https://iitd.ac.in",
-    "scanned_at": "2026-05-03T08:26:08.165825Z"
+    "scanned_at": "2026-05-04T10:25:00.531366Z"
   },
   {
     "title": "Add PhD Seminar : Click Here",
@@ -1707,7 +1716,7 @@
     "category": "seminar",
     "type": "SEMINAR",
     "source": "https://iitd.ac.in",
-    "scanned_at": "2026-05-03T08:26:08.165832Z"
+    "scanned_at": "2026-05-04T10:25:00.531374Z"
   },
   {
     "title": "PhD Seminar",
@@ -1716,7 +1725,7 @@
     "category": "seminar",
     "type": "SEMINAR",
     "source": "https://iitd.ac.in",
-    "scanned_at": "2026-05-03T08:26:08.166424Z"
+    "scanned_at": "2026-05-04T10:25:00.531977Z"
   },
   {
     "title": "Courses/Conferences/Workshop Webinar/Symposium",
@@ -1725,7 +1734,7 @@
     "category": "conference",
     "type": "CONF",
     "source": "https://iitk.ac.in",
-    "scanned_at": "2026-05-03T08:26:12.097038Z"
+    "scanned_at": "2026-05-04T10:25:04.013164Z"
   },
   {
     "title": "Applications Are Invited for Internship for Students from Ladakh at…",
@@ -1734,7 +1743,7 @@
     "category": "internship",
     "type": "INTERN",
     "source": "https://iitk.ac.in",
-    "scanned_at": "2026-05-03T08:26:12.097102Z"
+    "scanned_at": "2026-05-04T10:25:04.013232Z"
   },
   {
     "title": "Welcome to the Department of Bioscience and Biotechnology. The year 2023 was very significant for us as the Department of Biotechnology and School of",
@@ -1743,7 +1752,7 @@
     "category": "bioinformatics",
     "type": "BIOINF",
     "source": "https://www.iitkgp.ac.in/department/BT",
-    "scanned_at": "2026-05-03T08:26:18.546342Z"
+    "scanned_at": "2026-05-04T10:25:10.491417Z"
   },
   {
     "title": "Algae-based Bio-CCU & Waste Valorization Antimicrobial Resistance Artificial Intelligence Autism and autism spectrum disorders Autism Spectrum Disorde",
@@ -1752,7 +1761,7 @@
     "category": "microbiology",
     "type": "MICROB",
     "source": "https://www.iitkgp.ac.in/department/BT",
-    "scanned_at": "2026-05-03T08:26:18.546501Z"
+    "scanned_at": "2026-05-04T10:25:10.491584Z"
   },
   {
     "title": "Antimicrobial Resistance Artificial Intelligence Autism and autism spectrum disorders Autism Spectrum Disorder Bacterial biofilm formation Bacterial c",
@@ -1761,7 +1770,7 @@
     "category": "microbiology",
     "type": "MICROB",
     "source": "https://www.iitkgp.ac.in/department/BT",
-    "scanned_at": "2026-05-03T08:26:18.546560Z"
+    "scanned_at": "2026-05-04T10:25:10.491649Z"
   },
   {
     "title": "Artificial Intelligence Autism and autism spectrum disorders Autism Spectrum Disorder Bacterial biofilm formation Bacterial cell shape Big-Data Bioana",
@@ -1770,7 +1779,7 @@
     "category": "microbiology",
     "type": "MICROB",
     "source": "https://www.iitkgp.ac.in/department/BT",
-    "scanned_at": "2026-05-03T08:26:18.546614Z"
+    "scanned_at": "2026-05-04T10:25:10.491705Z"
   },
   {
     "title": "Autism and autism spectrum disorders Autism Spectrum Disorder Bacterial biofilm formation Bacterial cell shape Big-Data Bioanalytics Biochemistry Bioc",
@@ -1779,7 +1788,7 @@
     "category": "microbiology",
     "type": "MICROB",
     "source": "https://www.iitkgp.ac.in/department/BT",
-    "scanned_at": "2026-05-03T08:26:18.546667Z"
+    "scanned_at": "2026-05-04T10:25:10.491759Z"
   },
   {
     "title": "Autism Spectrum Disorder Bacterial biofilm formation Bacterial cell shape Big-Data Bioanalytics Biochemistry Biochemistry and Biophysics Bioinformatic",
@@ -1788,7 +1797,7 @@
     "category": "microbiology",
     "type": "MICROB",
     "source": "https://www.iitkgp.ac.in/department/BT",
-    "scanned_at": "2026-05-03T08:26:18.546719Z"
+    "scanned_at": "2026-05-04T10:25:10.491811Z"
   },
   {
     "title": "Bacterial biofilm formation Bacterial cell shape Big-Data Bioanalytics Biochemistry Biochemistry and Biophysics Bioinformatics Bioinformatics and Comp",
@@ -1797,7 +1806,7 @@
     "category": "microbiology",
     "type": "MICROB",
     "source": "https://www.iitkgp.ac.in/department/BT",
-    "scanned_at": "2026-05-03T08:26:18.546768Z"
+    "scanned_at": "2026-05-04T10:25:10.491861Z"
   },
   {
     "title": "Bacterial cell shape Big-Data Bioanalytics Biochemistry Biochemistry and Biophysics Bioinformatics Bioinformatics and Computational Biology Biophysics",
@@ -1806,7 +1815,7 @@
     "category": "microbiology",
     "type": "MICROB",
     "source": "https://www.iitkgp.ac.in/department/BT",
-    "scanned_at": "2026-05-03T08:26:18.546817Z"
+    "scanned_at": "2026-05-04T10:25:10.491910Z"
   },
   {
     "title": "Big-Data Bioanalytics Biochemistry Biochemistry and Biophysics Bioinformatics Bioinformatics and Computational Biology Biophysics Bioprocess Engineeri",
@@ -1815,7 +1824,7 @@
     "category": "microbiology",
     "type": "MICROB",
     "source": "https://www.iitkgp.ac.in/department/BT",
-    "scanned_at": "2026-05-03T08:26:18.546868Z"
+    "scanned_at": "2026-05-04T10:25:10.491961Z"
   },
   {
     "title": "Biochemistry Biochemistry and Biophysics Bioinformatics Bioinformatics and Computational Biology Biophysics Bioprocess Engineering and Technology Biop",
@@ -1824,7 +1833,7 @@
     "category": "microbiology",
     "type": "MICROB",
     "source": "https://www.iitkgp.ac.in/department/BT",
-    "scanned_at": "2026-05-03T08:26:18.546916Z"
+    "scanned_at": "2026-05-04T10:25:10.492009Z"
   },
   {
     "title": "Biochemistry and Biophysics Bioinformatics Bioinformatics and Computational Biology Biophysics Bioprocess Engineering and Technology Bioprospecting of",
@@ -1833,7 +1842,7 @@
     "category": "microbiology",
     "type": "MICROB",
     "source": "https://www.iitkgp.ac.in/department/BT",
-    "scanned_at": "2026-05-03T08:26:18.546963Z"
+    "scanned_at": "2026-05-04T10:25:10.492056Z"
   },
   {
     "title": "Bioinformatics Bioinformatics and Computational Biology Biophysics Bioprocess Engineering and Technology Bioprospecting of Endophytic Microbes Biorefi",
@@ -1842,7 +1851,7 @@
     "category": "microbiology",
     "type": "MICROB",
     "source": "https://www.iitkgp.ac.in/department/BT",
-    "scanned_at": "2026-05-03T08:26:18.547008Z"
+    "scanned_at": "2026-05-04T10:25:10.492102Z"
   },
   {
     "title": "Bioinformatics and Computational Biology Biophysics Bioprocess Engineering and Technology Bioprospecting of Endophytic Microbes Biorefinery for Biofue",
@@ -1851,7 +1860,7 @@
     "category": "microbiology",
     "type": "MICROB",
     "source": "https://www.iitkgp.ac.in/department/BT",
-    "scanned_at": "2026-05-03T08:26:18.547054Z"
+    "scanned_at": "2026-05-04T10:25:10.492146Z"
   },
   {
     "title": "Biophysics Bioprocess Engineering and Technology Bioprospecting of Endophytic Microbes Biorefinery for Biofuels & Biorenewables Biotechnology of plant",
@@ -1860,7 +1869,7 @@
     "category": "microbiology",
     "type": "MICROB",
     "source": "https://www.iitkgp.ac.in/department/BT",
-    "scanned_at": "2026-05-03T08:26:18.547098Z"
+    "scanned_at": "2026-05-04T10:25:10.492190Z"
   },
   {
     "title": "Bioprocess Engineering and Technology Bioprospecting of Endophytic Microbes Biorefinery for Biofuels & Biorenewables Biotechnology of plants, fungi an",
@@ -1869,7 +1878,7 @@
     "category": "microbiology",
     "type": "MICROB",
     "source": "https://www.iitkgp.ac.in/department/BT",
-    "scanned_at": "2026-05-03T08:26:18.547141Z"
+    "scanned_at": "2026-05-04T10:25:10.492234Z"
   },
   {
     "title": "Bioprospecting of Endophytic Microbes Biorefinery for Biofuels & Biorenewables Biotechnology of plants, fungi and algae Cadherin & nectin in health an",
@@ -1878,7 +1887,7 @@
     "category": "microbiology",
     "type": "MICROB",
     "source": "https://www.iitkgp.ac.in/department/BT",
-    "scanned_at": "2026-05-03T08:26:18.547185Z"
+    "scanned_at": "2026-05-04T10:25:10.492276Z"
   },
   {
     "title": "Biorefinery for Biofuels & Biorenewables Biotechnology of plants, fungi and algae Cadherin & nectin in health and diseases Cell adhesion biology Cell",
@@ -1887,7 +1896,7 @@
     "category": "microbiology",
     "type": "MICROB",
     "source": "https://www.iitkgp.ac.in/department/BT",
-    "scanned_at": "2026-05-03T08:26:18.547238Z"
+    "scanned_at": "2026-05-04T10:25:10.492319Z"
   },
   {
     "title": "Biotechnology of plants, fungi and algae Cadherin & nectin in health and diseases Cell adhesion biology Cell biology Developmental biology Drug resist",
@@ -1896,7 +1905,7 @@
     "category": "microbiology",
     "type": "MICROB",
     "source": "https://www.iitkgp.ac.in/department/BT",
-    "scanned_at": "2026-05-03T08:26:18.547281Z"
+    "scanned_at": "2026-05-04T10:25:10.492360Z"
   },
   {
     "title": "Cadherin & nectin in health and diseases Cell adhesion biology Cell biology Developmental biology Drug resistance evolution Ecotoxicology, Bioremediat",
@@ -1905,7 +1914,7 @@
     "category": "microbiology",
     "type": "MICROB",
     "source": "https://www.iitkgp.ac.in/department/BT",
-    "scanned_at": "2026-05-03T08:26:18.547329Z"
+    "scanned_at": "2026-05-04T10:25:10.492403Z"
   },
   {
     "title": "Cell adhesion biology Cell biology Developmental biology Drug resistance evolution Ecotoxicology, Bioremediation Environmental and Marine Biotechnolog",
@@ -1914,7 +1923,7 @@
     "category": "microbiology",
     "type": "MICROB",
     "source": "https://www.iitkgp.ac.in/department/BT",
-    "scanned_at": "2026-05-03T08:26:18.547369Z"
+    "scanned_at": "2026-05-04T10:25:10.492443Z"
   },
   {
     "title": "Cell biology Developmental biology Drug resistance evolution Ecotoxicology, Bioremediation Environmental and Marine Biotechnology Functional genomics",
@@ -1923,7 +1932,7 @@
     "category": "microbiology",
     "type": "MICROB",
     "source": "https://www.iitkgp.ac.in/department/BT",
-    "scanned_at": "2026-05-03T08:26:18.547408Z"
+    "scanned_at": "2026-05-04T10:25:10.492481Z"
   },
   {
     "title": "Developmental biology Drug resistance evolution Ecotoxicology, Bioremediation Environmental and Marine Biotechnology Functional genomics of rice crop",
@@ -1932,7 +1941,7 @@
     "category": "microbiology",
     "type": "MICROB",
     "source": "https://www.iitkgp.ac.in/department/BT",
-    "scanned_at": "2026-05-03T08:26:18.547446Z"
+    "scanned_at": "2026-05-04T10:25:10.492519Z"
   },
   {
     "title": "Drug resistance evolution Ecotoxicology, Bioremediation Environmental and Marine Biotechnology Functional genomics of rice crop Genotype-phenotype map",
@@ -1941,7 +1950,7 @@
     "category": "microbiology",
     "type": "MICROB",
     "source": "https://www.iitkgp.ac.in/department/BT",
-    "scanned_at": "2026-05-03T08:26:18.547483Z"
+    "scanned_at": "2026-05-04T10:25:10.492555Z"
   },
   {
     "title": "Ecotoxicology, Bioremediation Environmental and Marine Biotechnology Functional genomics of rice crop Genotype-phenotype mapping Green Surfactants and",
@@ -1950,7 +1959,7 @@
     "category": "microbiology",
     "type": "MICROB",
     "source": "https://www.iitkgp.ac.in/department/BT",
-    "scanned_at": "2026-05-03T08:26:18.547519Z"
+    "scanned_at": "2026-05-04T10:25:10.492606Z"
   },
   {
     "title": "Environmental and Marine Biotechnology Functional genomics of rice crop Genotype-phenotype mapping Green Surfactants and Polymers Host-directed Therap",
@@ -1959,7 +1968,7 @@
     "category": "microbiology",
     "type": "MICROB",
     "source": "https://www.iitkgp.ac.in/department/BT",
-    "scanned_at": "2026-05-03T08:26:18.547555Z"
+    "scanned_at": "2026-05-04T10:25:10.492643Z"
   },
   {
     "title": "Functional genomics of rice crop Genotype-phenotype mapping Green Surfactants and Polymers Host-directed Therapeutics Host-Parasite interaction Immuno",
@@ -1968,7 +1977,7 @@
     "category": "microbiology",
     "type": "MICROB",
     "source": "https://www.iitkgp.ac.in/department/BT",
-    "scanned_at": "2026-05-03T08:26:18.547591Z"
+    "scanned_at": "2026-05-04T10:25:10.492678Z"
   },
   {
     "title": "Genotype-phenotype mapping Green Surfactants and Polymers Host-directed Therapeutics Host-Parasite interaction Immunology Inflammatory Disease Lipid M",
@@ -1977,7 +1986,7 @@
     "category": "microbiology",
     "type": "MICROB",
     "source": "https://www.iitkgp.ac.in/department/BT",
-    "scanned_at": "2026-05-03T08:26:18.547625Z"
+    "scanned_at": "2026-05-04T10:25:10.492713Z"
   },
   {
     "title": "Green Surfactants and Polymers Host-directed Therapeutics Host-Parasite interaction Immunology Inflammatory Disease Lipid Metabolic Engineering Macrom",
@@ -1986,7 +1995,7 @@
     "category": "microbiology",
     "type": "MICROB",
     "source": "https://www.iitkgp.ac.in/department/BT",
-    "scanned_at": "2026-05-03T08:26:18.547659Z"
+    "scanned_at": "2026-05-04T10:25:10.492746Z"
   },
   {
     "title": "Host-directed Therapeutics Host-Parasite interaction Immunology Inflammatory Disease Lipid Metabolic Engineering Macromolecular X-ray Crystallography",
@@ -1995,7 +2004,7 @@
     "category": "microbiology",
     "type": "MICROB",
     "source": "https://www.iitkgp.ac.in/department/BT",
-    "scanned_at": "2026-05-03T08:26:18.547694Z"
+    "scanned_at": "2026-05-04T10:25:10.492792Z"
   },
   {
     "title": "Host-Parasite interaction Immunology Inflammatory Disease Lipid Metabolic Engineering Macromolecular X-ray Crystallography Marine & Environmental Biot",
@@ -2004,7 +2013,7 @@
     "category": "microbiology",
     "type": "MICROB",
     "source": "https://www.iitkgp.ac.in/department/BT",
-    "scanned_at": "2026-05-03T08:26:18.547726Z"
+    "scanned_at": "2026-05-04T10:25:10.492824Z"
   },
   {
     "title": "Immunology Inflammatory Disease Lipid Metabolic Engineering Macromolecular X-ray Crystallography Marine & Environmental Biotechnology Mechanistic stud",
@@ -2013,7 +2022,7 @@
     "category": "microbiology",
     "type": "MICROB",
     "source": "https://www.iitkgp.ac.in/department/BT",
-    "scanned_at": "2026-05-03T08:26:18.547756Z"
+    "scanned_at": "2026-05-04T10:25:10.492855Z"
   },
   {
     "title": "Inflammatory Disease Lipid Metabolic Engineering Macromolecular X-ray Crystallography Marine & Environmental Biotechnology Mechanistic studies of RecQ",
@@ -2022,7 +2031,7 @@
     "category": "microbiology",
     "type": "MICROB",
     "source": "https://www.iitkgp.ac.in/department/BT",
-    "scanned_at": "2026-05-03T08:26:18.547787Z"
+    "scanned_at": "2026-05-04T10:25:10.492884Z"
   },
   {
     "title": "Lipid Metabolic Engineering Macromolecular X-ray Crystallography Marine & Environmental Biotechnology Mechanistic studies of RecQ helicases Membranele",
@@ -2031,7 +2040,7 @@
     "category": "microbiology",
     "type": "MICROB",
     "source": "https://www.iitkgp.ac.in/department/BT",
-    "scanned_at": "2026-05-03T08:26:18.547816Z"
+    "scanned_at": "2026-05-04T10:25:10.492914Z"
   },
   {
     "title": "Macromolecular X-ray Crystallography Marine & Environmental Biotechnology Mechanistic studies of RecQ helicases Membraneless biological assemblies Mic",
@@ -2040,7 +2049,7 @@
     "category": "microbiology",
     "type": "MICROB",
     "source": "https://www.iitkgp.ac.in/department/BT",
-    "scanned_at": "2026-05-03T08:26:18.547845Z"
+    "scanned_at": "2026-05-04T10:25:10.492943Z"
   },
   {
     "title": "Marine & Environmental Biotechnology Mechanistic studies of RecQ helicases Membraneless biological assemblies Microbial CO2 capture and utilization Mi",
@@ -2049,7 +2058,7 @@
     "category": "microbiology",
     "type": "MICROB",
     "source": "https://www.iitkgp.ac.in/department/BT",
-    "scanned_at": "2026-05-03T08:26:18.547873Z"
+    "scanned_at": "2026-05-04T10:25:10.492973Z"
   },
   {
     "title": "Mechanistic studies of RecQ helicases Membraneless biological assemblies Microbial CO2 capture and utilization Microbial genomics and metagenomics Mic",
@@ -2058,7 +2067,7 @@
     "category": "microbiology",
     "type": "MICROB",
     "source": "https://www.iitkgp.ac.in/department/BT",
-    "scanned_at": "2026-05-03T08:26:18.547900Z"
+    "scanned_at": "2026-05-04T10:25:10.493001Z"
   },
   {
     "title": "Membraneless biological assemblies Microbial CO2 capture and utilization Microbial genomics and metagenomics Microbial pathogenesis Microbiology of de",
@@ -2067,7 +2076,7 @@
     "category": "microbiology",
     "type": "MICROB",
     "source": "https://www.iitkgp.ac.in/department/BT",
-    "scanned_at": "2026-05-03T08:26:18.547926Z"
+    "scanned_at": "2026-05-04T10:25:10.493027Z"
   },
   {
     "title": "Microbial CO2 capture and utilization Microbial genomics and metagenomics Microbial pathogenesis Microbiology of deep biosphere Microfluidics Molecula",
@@ -2076,7 +2085,7 @@
     "category": "microbiology",
     "type": "MICROB",
     "source": "https://www.iitkgp.ac.in/department/BT",
-    "scanned_at": "2026-05-03T08:26:18.547955Z"
+    "scanned_at": "2026-05-04T10:25:10.493054Z"
   },
   {
     "title": "Microbial genomics and metagenomics Microbial pathogenesis Microbiology of deep biosphere Microfluidics Molecular  Cell biology of Parasite Molecular",
@@ -2085,7 +2094,7 @@
     "category": "microbiology",
     "type": "MICROB",
     "source": "https://www.iitkgp.ac.in/department/BT",
-    "scanned_at": "2026-05-03T08:26:18.547979Z"
+    "scanned_at": "2026-05-04T10:25:10.493079Z"
   },
   {
     "title": "Microbial pathogenesis Microbiology of deep biosphere Microfluidics Molecular  Cell biology of Parasite Molecular diagnostics Molecular Virology Neuro",
@@ -2094,7 +2103,7 @@
     "category": "microbiology",
     "type": "MICROB",
     "source": "https://www.iitkgp.ac.in/department/BT",
-    "scanned_at": "2026-05-03T08:26:18.548003Z"
+    "scanned_at": "2026-05-04T10:25:10.493104Z"
   },
   {
     "title": "Microbiology of deep biosphere Microfluidics Molecular  Cell biology of Parasite Molecular diagnostics Molecular Virology Neuro-epigenetics Neurodegen",
@@ -2103,7 +2112,7 @@
     "category": "microbiology",
     "type": "MICROB",
     "source": "https://www.iitkgp.ac.in/department/BT",
-    "scanned_at": "2026-05-03T08:26:18.548027Z"
+    "scanned_at": "2026-05-04T10:25:10.493127Z"
   },
   {
     "title": "Pre-Synopsis seminar by Sathasivam K on 24 March 2026 at 4 pm",
@@ -2112,7 +2121,7 @@
     "category": "seminar",
     "type": "SEMINAR",
     "source": "https://iisertvm.ac.in/events",
-    "scanned_at": "2026-05-03T08:26:22.927838Z"
+    "scanned_at": "2026-05-04T10:25:16.581652Z"
   },
   {
     "title": "Seminar by Mr. Tooryanand Seetohul on 5 March at 4pm",
@@ -2121,7 +2130,7 @@
     "category": "seminar",
     "type": "SEMINAR",
     "source": "https://iisertvm.ac.in/events",
-    "scanned_at": "2026-05-03T08:26:22.927855Z"
+    "scanned_at": "2026-05-04T10:25:16.581669Z"
   },
   {
     "title": "Seminar by Prof. Mrinal K. Das, ISI Kolkata on 10 March at 4 pm",
@@ -2130,7 +2139,7 @@
     "category": "seminar",
     "type": "SEMINAR",
     "source": "https://iisertvm.ac.in/events",
-    "scanned_at": "2026-05-03T08:26:22.927873Z"
+    "scanned_at": "2026-05-04T10:25:16.581688Z"
   },
   {
     "title": "Pre-Synopsis seminar by Subith G. on 25 March 2026 at 4 pm",
@@ -2139,7 +2148,7 @@
     "category": "seminar",
     "type": "SEMINAR",
     "source": "https://iisertvm.ac.in/events",
-    "scanned_at": "2026-05-03T08:26:22.927880Z"
+    "scanned_at": "2026-05-04T10:25:16.581694Z"
   },
   {
     "title": "Phd. seminar by Mr. Darrel Joseph on 27 January 2026",
@@ -2148,7 +2157,7 @@
     "category": "seminar",
     "type": "SEMINAR",
     "source": "https://iisertvm.ac.in/events",
-    "scanned_at": "2026-05-03T08:26:22.927901Z"
+    "scanned_at": "2026-05-04T10:25:16.581715Z"
   },
   {
     "title": "PhD seminar by Mr. Naga Arjun S.J on 20th January 2026",
@@ -2157,7 +2166,7 @@
     "category": "seminar",
     "type": "SEMINAR",
     "source": "https://iisertvm.ac.in/events",
-    "scanned_at": "2026-05-03T08:26:22.927912Z"
+    "scanned_at": "2026-05-04T10:25:16.581727Z"
   },
   {
     "title": "Seminar by Prof. T.E.S. Raghavan, University of Illinois, Chicago",
@@ -2166,7 +2175,7 @@
     "category": "seminar",
     "type": "SEMINAR",
     "source": "https://iisertvm.ac.in/events",
-    "scanned_at": "2026-05-03T08:26:22.927930Z"
+    "scanned_at": "2026-05-04T10:25:16.581745Z"
   },
   {
     "title": "Seminar by Prof. S. Sundar, Director, NIT Mizoram",
@@ -2175,7 +2184,7 @@
     "category": "seminar",
     "type": "SEMINAR",
     "source": "https://iisertvm.ac.in/events",
-    "scanned_at": "2026-05-03T08:26:22.927937Z"
+    "scanned_at": "2026-05-04T10:25:16.581752Z"
   },
   {
     "title": "Seminar by Prof. Rituparna Sen, ISI Bangalore on January 8, 2026",
@@ -2184,7 +2193,7 @@
     "category": "seminar",
     "type": "SEMINAR",
     "source": "https://iisertvm.ac.in/events",
-    "scanned_at": "2026-05-03T08:26:22.927943Z"
+    "scanned_at": "2026-05-04T10:25:16.581758Z"
   },
   {
     "title": "Academic Admissions          - GS 2026 JGEEBILS Partner Institutes TIFR Graduate Studies Campus Wellness Program Postdoctoral Program Phd Program Inte",
@@ -2193,7 +2202,7 @@
     "category": "seminar",
     "type": "SEMINAR",
     "source": "https://www.ncbs.res.in/",
-    "scanned_at": "2026-05-03T08:26:30.934105Z"
+    "scanned_at": "2026-05-04T10:25:23.091651Z"
   },
   {
     "title": "Admissions          - GS 2026 JGEEBILS Partner Institutes TIFR Graduate Studies Campus Wellness Program Postdoctoral Program Phd Program Integrated Ph",
@@ -2202,7 +2211,7 @@
     "category": "seminar",
     "type": "SEMINAR",
     "source": "https://www.ncbs.res.in/",
-    "scanned_at": "2026-05-03T08:26:30.934171Z"
+    "scanned_at": "2026-05-04T10:25:23.091718Z"
   },
   {
     "title": "Annual Work Seminars",
@@ -2211,7 +2220,7 @@
     "category": "seminar",
     "type": "SEMINAR",
     "source": "https://www.ncbs.res.in/",
-    "scanned_at": "2026-05-03T08:26:30.934320Z"
+    "scanned_at": "2026-05-04T10:25:23.091867Z"
   },
   {
     "title": "Temporal Population Genomics",
@@ -2220,7 +2229,7 @@
     "category": "genomics",
     "type": "GENOMI",
     "source": "https://www.ncbs.res.in/",
-    "scanned_at": "2026-05-03T08:26:30.934857Z"
+    "scanned_at": "2026-05-04T10:25:23.092463Z"
   },
   {
     "title": "The Tata Institute for Genetics and Society (TIGS) is a non-profit research institute that aspires to develop solutions to challenges in human health",
@@ -2229,7 +2238,7 @@
     "category": "genomics",
     "type": "GENOMI",
     "source": "https://www.ncbs.res.in/",
-    "scanned_at": "2026-05-03T08:26:30.935311Z"
+    "scanned_at": "2026-05-04T10:25:23.092949Z"
   },
   {
     "title": "3rd Workshop on Mass Spectrometry Data Analysis Using Open-Source Tools",
@@ -2238,7 +2247,7 @@
     "category": "workshop",
     "type": "WORKSHOP",
     "source": "https://www.ncbs.res.in/events",
-    "scanned_at": "2026-05-03T08:26:32.576933Z"
+    "scanned_at": "2026-05-04T10:25:24.982826Z"
   },
   {
     "title": "Academics ब्रिक-इन्‌स्टेम में पीएच.डी. कार्यक्रम – अगस्त 2026 प्रवेश / PhD program at BRIC-inStem –August  2026 intake Ph.D. Program at inStem Present",
@@ -2247,7 +2256,7 @@
     "category": "internship",
     "type": "INTERN",
     "source": "https://www.instem.res.in/",
-    "scanned_at": "2026-05-03T08:26:35.169092Z"
+    "scanned_at": "2026-05-04T10:25:27.589935Z"
   },
   {
     "title": "Internships",
@@ -2256,6 +2265,6 @@
     "category": "internship",
     "type": "INTERN",
     "source": "https://www.instem.res.in/",
-    "scanned_at": "2026-05-03T08:26:35.169139Z"
+    "scanned_at": "2026-05-04T10:25:27.589978Z"
   }
 ]
