@@ -94,16 +94,32 @@ def main():
             seen.add(key)
             unique.append(e)
 
-    # ── write output ──
-    out_path = os.path.join(os.path.dirname(__file__), "..", "data", "events.json")
-    os.makedirs(os.path.dirname(out_path), exist_ok=True)
+    # ── FILTER OUT OLD EVENTS ──
+    from datetime import datetime
+    current_year = datetime.utcnow().year
+    
+    def is_relevant(event):
+        title = event["title"].lower()
+        
+        # Reject if title starts with an old year (e.g. "2009-", "2011-", "2014-")
+        import re
+        year_match = re.match(r'^(20\d{2})', title)
+        if year_match:
+            year = int(year_match.group(1))
+            if year < current_year:
+                return False
+        
+        # Reject if title contains old year anywhere like "Workshop 2022"
+        years_in_title = re.findall(r'20\d{2}', title)
+        for y in years_in_title:
+            if int(y) < current_year:
+                return False
+        
+        return True
+
+    filtered = [e for e in unique if is_relevant(e)]
 
     with open(out_path, "w", encoding="utf-8") as f:
-        json.dump(unique, f, indent=2, ensure_ascii=False)
+        json.dump(filtered, f, indent=2, ensure_ascii=False)
 
-    print(f"\n✅  Done — {len(unique)} unique events saved to data/events.json")
-    print(f"    Timestamp: {datetime.utcnow().isoformat()}Z")
-
-
-if __name__ == "__main__":
-    main()
+    print(f"\n✅  Done — {len(filtered)} relevant events saved (removed {len(unique)-len(filtered)} old ones)")
